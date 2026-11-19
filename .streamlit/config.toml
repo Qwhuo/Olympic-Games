@@ -1,0 +1,15 @@
+[theme]
+
+base = "dark"
+# Основной фон — приглушённый оливково-зелёный
+backgroundColor = "#465344"
+
+# Панели — глубокий тёмно-изумрудный
+secondaryBackgroundColor = "#28382F"
+
+# Акценты — тёплое античное золото
+primaryColor = "#f7a33b"
+
+# Текст — светлый кремовый
+textColor = "#FFFBF0"
+font = "sans serif"

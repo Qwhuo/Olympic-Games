@@ -1,0 +1,1001 @@
+"year","type","noc","Country Name","GPD","Popul","is_medal","Disciplines","host_country","Athletes","total_countries","Events","is_host","total_medals"
+1960,"Summer","AFG","Afghanistan","",8622466.0,0,23,"Italy",5338,83,150,0,0
+1964,"Summer","AFG","Afghanistan","",9355514.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","AFG","Afghanistan","",10247780.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","AFG","Afghanistan","",11286753.0,0,28,"Germany",7134,121,195,0,0
+1980,"Summer","AFG","Afghanistan","",12486631.0,0,27,"USSR",5179,80,203,0,0
+1988,"Summer","AFG","Afghanistan","",10383460.0,0,31,"Republic of Korea",8397,159,237,0,0
+1996,"Summer","AFG","Afghanistan","",17106595.0,0,37,"United States of America",10318,197,271,0,0
+2004,"Summer","AFG","Afghanistan",5224896718.67782,23553551.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","AFG","Afghanistan",10109297047.5432,26427199.0,1,41,"People's Republic of China",10942,204,302,0,1
+2008,"Summer","AFG","Afghanistan",10109297047.5432,26427199.0,0,41,"People's Republic of China",10942,204,302,0,1
+2012,"Summer","AFG","Afghanistan",19907329777.5872,30466479.0,1,36,"Great Britain",10568,204,302,0,1
+2012,"Summer","AFG","Afghanistan",19907329777.5872,30466479.0,0,36,"Great Britain",10568,204,302,0,1
+2016,"Summer","AFG","Afghanistan",18116572395.0772,34636207.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","AFG","Afghanistan",19955929052.1496,38972230.0,0,0,"Japan","","","",0,0
+1972,"Summer","ALB","Albania","",2243126.0,0,28,"Germany",7134,121,195,0,0
+1992,"Summer","ALB","Albania",652174990.837304,3247039.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","ALB","Albania",3234486232.04392,3168033.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","ALB","Albania",3584570164.85195,3089027.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","ALB","Albania",7406645793.44038,3026939.0,0,40,"Greece",10625,201,301,0,0
+2006,"Winter","ALB","Albania",9150528132.17633,2992547.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","ALB","Albania",13258506375.4518,2947314.0,0,41,"People's Republic of China",10942,204,302,0,0
+2010,"Winter","ALB","Albania",12086545641.299,2913021.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","ALB","Albania",12246499747.9714,2900401.0,0,36,"Great Britain",10568,204,302,0,0
+2014,"Winter","ALB","Albania",13296322588.1684,2889104.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","ALB","Albania",11988668784.6628,2876101.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","ALB","Albania",15379508329.7568,2866376.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","ALB","Albania",15241458744.5927,2837849.0,0,0,"Japan","","","",0,0
+2022,"Winter","ALB","Albania",19017247013.8821,2777689.0,0,0,"People's Republic of China","","","",0,0
+1964,"Summer","ALG","Algeria",2909316435.2874,12179099.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","ALG","Algeria",3852147026.77302,13190975.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","ALG","Algeria",6766743956.88889,14439748.0,0,28,"Germany",7134,121,195,0,0
+1980,"Summer","ALG","Algeria",42345829079.2062,18739378.0,0,27,"USSR",5179,80,203,0,0
+1984,"Summer","ALG","Algeria",53698548293.0745,21393530.0,0,29,"United States of America",6829,140,221,0,2
+1984,"Summer","ALG","Algeria",53698548293.0745,21393530.0,1,29,"United States of America",6829,140,221,0,2
+1988,"Summer","ALG","Algeria",59089396860.4342,24243018.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","ALG","Algeria",48003133346.9957,26748303.0,0,34,"Spain",9356,169,257,0,2
+1992,"Summer","ALG","Algeria",48003133346.9957,26748303.0,1,34,"Spain",9356,169,257,0,2
+1992,"Winter","ALG","Algeria",48003133346.9957,26748303.0,0,12,"France",1801,64,57,0,0
+1996,"Summer","ALG","Algeria",46941554225.3581,28984634.0,0,37,"United States of America",10318,197,271,0,3
+1996,"Summer","ALG","Algeria",46941554225.3581,28984634.0,1,37,"United States of America",10318,197,271,0,3
+2000,"Summer","ALG","Algeria",54790398570.3282,30774621.0,1,40,"Australia",10651,199,300,0,5
+2000,"Summer","ALG","Algeria",54790398570.3282,30774621.0,0,40,"Australia",10651,199,300,0,5
+2004,"Summer","ALG","Algeria",91913680985.1708,32510186.0,0,40,"Greece",10625,201,301,0,0
+2006,"Winter","ALG","Algeria",123084258693.01,33435080.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","ALG","Algeria",180383848331.135,34569592.0,0,41,"People's Republic of China",10942,204,302,0,2
+2008,"Summer","ALG","Algeria",180383848331.135,34569592.0,1,41,"People's Republic of China",10942,204,302,0,2
+2010,"Winter","ALG","Algeria",177785053939.531,35856344.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","ALG","Algeria",227143746075.934,37260563.0,0,36,"Great Britain",10568,204,302,0,1
+2012,"Summer","ALG","Algeria",227143746075.934,37260563.0,1,36,"Great Britain",10568,204,302,0,1
+2016,"Summer","ALG","Algeria",180763839522.151,40339329.0,0,39,"Brazil",11238,207,306,0,2
+2016,"Summer","ALG","Algeria",180763839522.151,40339329.0,1,39,"Brazil",11238,207,306,0,2
+2020,"Summer","ALG","Algeria",164873415325.201,43451666.0,0,0,"Japan","","","",0,0
+1976,"Summer","AND","Andorra",227283850.831271,29294.0,0,27,"Canada",6084,92,198,0,0
+1976,"Winter","AND","Andorra",227283850.831271,29294.0,0,10,"Austria",1123,37,37,0,0
+1980,"Summer","AND","Andorra",446377776.798001,35611.0,0,27,"USSR",5179,80,203,0,0
+1980,"Winter","AND","Andorra",446377776.798001,35611.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","AND","Andorra",330073080.637098,42181.0,0,29,"United States of America",6829,140,221,0,0
+1984,"Winter","AND","Andorra",330073080.637098,42181.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","AND","Andorra",721425939.15155,49654.0,0,31,"Republic of Korea",8397,159,237,0,0
+1988,"Winter","AND","Andorra",721425939.15155,49654.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","AND","Andorra",1209992020.29543,57283.0,0,34,"Spain",9356,169,257,0,0
+1992,"Winter","AND","Andorra",1209992020.29543,57283.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","AND","Andorra",1017544068.8408,61037.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","AND","Andorra",1224024139.21295,64147.0,0,37,"United States of America",10318,197,271,0,0
+1998,"Winter","AND","Andorra",1211953994.05714,65186.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","AND","Andorra",1432606188.65883,66097.0,0,40,"Australia",10651,199,300,0,0
+2002,"Winter","AND","Andorra",1764279824.23138,70849.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","AND","Andorra",2900245324.32047,76933.0,0,40,"Greece",10625,201,301,0,0
+2006,"Winter","AND","Andorra",3459337986.67058,80221.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","AND","Andorra",4102319398.76562,76055.0,0,41,"People's Republic of China",10942,204,302,0,0
+2010,"Winter","AND","Andorra",3449925738.83334,71519.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","AND","Andorra",3188652765.29297,71013.0,0,36,"Great Britain",10568,204,302,0,0
+2014,"Winter","AND","Andorra",3271685596.52156,71621.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","AND","Andorra",2896610479.86771,72540.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","AND","Andorra",3218419896.93333,75013.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","AND","Andorra",2891001149.40079,77700.0,0,0,"Japan","","","",0,0
+2022,"Winter","AND","Andorra",3380612573.4825,79824.0,0,0,"People's Republic of China","","","",0,0
+1960,"Summer","ARG","Argentina",15865474315.4056,20349744.0,0,23,"Italy",5338,83,150,0,4
+1960,"Summer","ARG","Argentina",15865474315.4056,20349744.0,1,23,"Italy",5338,83,150,0,4
+1960,"Winter","ARG","Argentina",15865474315.4056,20349744.0,0,8,"United States of America",665,30,27,0,0
+1964,"Summer","ARG","Argentina",25605249381.7597,21708487.0,0,25,"Japan",5151,93,163,0,1
+1964,"Summer","ARG","Argentina",25605249381.7597,21708487.0,1,25,"Japan",5151,93,163,0,1
+1964,"Winter","ARG","Argentina",25605249381.7597,21708487.0,0,10,"Austria",1091,36,34,0,0
+1968,"Summer","ARG","Argentina",26436857247.4982,23112971.0,0,24,"Mexico",5516,112,172,0,2
+1968,"Summer","ARG","Argentina",26436857247.4982,23112971.0,1,24,"Mexico",5516,112,172,0,2
+1968,"Winter","ARG","Argentina",26436857247.4982,23112971.0,0,10,"France",1158,37,35,0,0
+1972,"Summer","ARG","Argentina",34733000536.2862,24612794.0,0,28,"Germany",7134,121,195,0,1
+1972,"Summer","ARG","Argentina",34733000536.2862,24612794.0,1,28,"Germany",7134,121,195,0,1
+1972,"Winter","ARG","Argentina",34733000536.2862,24612794.0,0,10,"Japan",1006,35,35,0,0
+1976,"Summer","ARG","Argentina",51169499892.1722,26290257.0,0,27,"Canada",6084,92,198,0,0
+1976,"Winter","ARG","Argentina",51169499892.1722,26290257.0,0,10,"Austria",1123,37,37,0,0
+1980,"Winter","ARG","Argentina",76961923741.0701,28024803.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","ARG","Argentina",116915052107.031,29832197.0,0,29,"United States of America",6829,140,221,0,0
+1984,"Winter","ARG","Argentina",116915052107.031,29832197.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","ARG","Argentina",126890235049.092,31690792.0,0,31,"Republic of Korea",8397,159,237,0,13
+1988,"Summer","ARG","Argentina",126890235049.092,31690792.0,1,31,"Republic of Korea",8397,159,237,0,13
+1988,"Winter","ARG","Argentina",126890235049.092,31690792.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","ARG","Argentina",228778917308.17,33568285.0,0,34,"Spain",9356,169,257,0,2
+1992,"Summer","ARG","Argentina",228778917308.17,33568285.0,1,34,"Spain",9356,169,257,0,2
+1992,"Winter","ARG","Argentina",228778917308.17,33568285.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","ARG","Argentina",257440000000.0,34488696.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","ARG","Argentina",272149750000.0,35389362.0,0,37,"United States of America",10318,197,271,0,20
+1996,"Summer","ARG","Argentina",272149750000.0,35389362.0,1,37,"United States of America",10318,197,271,0,20
+1998,"Winter","ARG","Argentina",298948250000.0,36233195.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","ARG","Argentina",284203750000.0,37070774.0,0,40,"Australia",10651,199,300,0,20
+2000,"Summer","ARG","Argentina",284203750000.0,37070774.0,1,40,"Australia",10651,199,300,0,20
+2002,"Winter","ARG","Argentina",97724004251.8602,37885028.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","ARG","Argentina",164657930452.787,38668796.0,1,40,"Greece",10625,201,301,0,49
+2004,"Summer","ARG","Argentina",164657930452.787,38668796.0,0,40,"Greece",10625,201,301,0,49
+2006,"Winter","ARG","Argentina",232557260817.308,39476851.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","ARG","Argentina",361558037110.419,40273769.0,1,41,"People's Republic of China",10942,204,302,0,51
+2008,"Summer","ARG","Argentina",361558037110.419,40273769.0,0,41,"People's Republic of China",10942,204,302,0,51
+2010,"Winter","ARG","Argentina",423627422092.49,40788453.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","ARG","Argentina",545982375701.128,41733271.0,0,36,"Great Britain",10568,204,302,0,19
+2012,"Summer","ARG","Argentina",545982375701.128,41733271.0,1,36,"Great Britain",10568,204,302,0,19
+2014,"Winter","ARG","Argentina",526319673731.638,42669500.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","ARG","Argentina",557532320662.955,43590368.0,0,39,"Brazil",11238,207,306,0,22
+2016,"Summer","ARG","Argentina",557532320662.955,43590368.0,1,39,"Brazil",11238,207,306,0,22
+2018,"Winter","ARG","Argentina",524819892360.176,44494502.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","ARG","Argentina",385740508436.965,45376763.0,0,0,"Japan","","","",0,34
+2020,"Summer","ARG","Argentina",385740508436.965,45376763.0,1,0,"Japan","","","",0,34
+2022,"Winter","ARG","Argentina",633993756301.08,46234830.0,0,0,"People's Republic of China","","","",0,0
+1994,"Winter","ARM","Armenia",1315158636.67553,3373713.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","ARM","Armenia",1596968946.23708,3298898.0,1,37,"United States of America",10318,197,271,0,2
+1996,"Summer","ARM","Armenia",1596968946.23708,3298898.0,0,37,"United States of America",10318,197,271,0,2
+1998,"Winter","ARM","Armenia",1893726437.26462,3240550.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","ARM","Armenia",1911563668.85006,3168523.0,0,40,"Australia",10651,199,300,0,1
+2000,"Summer","ARM","Armenia",1911563668.85006,3168523.0,1,40,"Australia",10651,199,300,0,1
+2002,"Winter","ARM","Armenia",2376335048.39976,3105037.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","ARM","Armenia",3576615240.41616,3065745.0,0,40,"Greece",10625,201,301,0,0
+2006,"Winter","ARM","Armenia",6384452066.5146,3026486.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","ARM","Armenia",11662040713.8753,2983421.0,0,41,"People's Republic of China",10942,204,302,0,5
+2008,"Summer","ARM","Armenia",11662040713.8753,2983421.0,1,41,"People's Republic of China",10942,204,302,0,5
+2010,"Winter","ARM","Armenia",9260285755.62424,2946293.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","ARM","Armenia",10619320682.9474,2914421.0,0,36,"Great Britain",10568,204,302,0,2
+2012,"Summer","ARM","Armenia",10619320682.9474,2914421.0,1,36,"Great Britain",10568,204,302,0,2
+2014,"Winter","ARM","Armenia",11609513246.7958,2889930.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","ARM","Armenia",10546136235.5219,2865835.0,1,39,"Brazil",11238,207,306,0,4
+2016,"Summer","ARM","Armenia",10546136235.5219,2865835.0,0,39,"Brazil",11238,207,306,0,4
+2018,"Winter","ARM","Armenia",12457940694.7395,2836557.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","ARM","Armenia",12641698583.2152,2805608.0,1,0,"Japan","","","",0,4
+2020,"Summer","ARM","Armenia",12641698583.2152,2805608.0,0,0,"Japan","","","",0,4
+2022,"Winter","ARM","Armenia",19513506553.1251,2780469.0,0,0,"People's Republic of China","","","",0,0
+1960,"Summer","AUS","Australia",18635682981.7093,10276477.0,0,23,"Italy",5338,83,150,0,37
+1960,"Summer","AUS","Australia",18635682981.7093,10276477.0,1,23,"Italy",5338,83,150,0,37
+1960,"Winter","AUS","Australia",18635682981.7093,10276477.0,0,8,"United States of America",665,30,27,0,0
+1964,"Summer","AUS","Australia",23835843813.735,11167000.0,0,25,"Japan",5151,93,163,0,42
+1964,"Summer","AUS","Australia",23835843813.735,11167000.0,1,25,"Japan",5151,93,163,0,42
+1964,"Winter","AUS","Australia",23835843813.735,11167000.0,0,10,"Austria",1091,36,34,0,0
+1968,"Summer","AUS","Australia",32763365242.1384,12009000.0,0,24,"Mexico",5516,112,172,0,50
+1968,"Summer","AUS","Australia",32763365242.1384,12009000.0,1,24,"Mexico",5516,112,172,0,50
+1968,"Winter","AUS","Australia",32763365242.1384,12009000.0,0,10,"France",1158,37,35,0,0
+1972,"Summer","AUS","Australia",52117990654.2056,13177000.0,0,28,"Germany",7134,121,195,0,20
+1972,"Summer","AUS","Australia",52117990654.2056,13177000.0,1,28,"Germany",7134,121,195,0,20
+1972,"Winter","AUS","Australia",52117990654.2056,13177000.0,0,10,"Japan",1006,35,35,0,0
+1976,"Summer","AUS","Australia",105209354855.787,14033000.0,0,27,"Canada",6084,92,198,0,23
+1976,"Summer","AUS","Australia",105209354855.787,14033000.0,1,27,"Canada",6084,92,198,0,23
+1976,"Winter","AUS","Australia",105209354855.787,14033000.0,0,10,"Austria",1123,37,37,0,0
+1980,"Summer","AUS","Australia",150200557103.064,14692000.0,0,27,"USSR",5179,80,203,0,12
+1980,"Summer","AUS","Australia",150200557103.064,14692000.0,1,27,"USSR",5179,80,203,0,12
+1980,"Winter","AUS","Australia",150200557103.064,14692000.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","AUS","Australia",193749932078.26,15579391.0,0,29,"United States of America",6829,140,221,0,52
+1984,"Summer","AUS","Australia",193749932078.26,15579391.0,1,29,"United States of America",6829,140,221,0,52
+1984,"Winter","AUS","Australia",193749932078.26,15579391.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","AUS","Australia",236461079970.431,16532164.0,0,31,"Republic of Korea",8397,159,237,0,35
+1988,"Summer","AUS","Australia",236461079970.431,16532164.0,1,31,"Republic of Korea",8397,159,237,0,35
+1988,"Winter","AUS","Australia",236461079970.431,16532164.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","AUS","Australia",325982966981.415,17478635.0,1,34,"Spain",9356,169,257,0,57
+1992,"Summer","AUS","Australia",325982966981.415,17478635.0,0,34,"Spain",9356,169,257,0,57
+1992,"Winter","AUS","Australia",325982966981.415,17478635.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","AUS","Australia",323269456935.317,17805468.0,0,12,"Norway",1737,67,61,0,4
+1994,"Winter","AUS","Australia",323269456935.317,17805468.0,1,12,"Norway",1737,67,61,0,4
+1996,"Summer","AUS","Australia",401962517479.122,18224767.0,0,37,"United States of America",10318,197,271,0,132
+1996,"Summer","AUS","Australia",401962517479.122,18224767.0,1,37,"United States of America",10318,197,271,0,132
+1998,"Winter","AUS","Australia",400361527504.578,18607584.0,0,14,"Japan",2176,72,68,0,1
+1998,"Winter","AUS","Australia",400361527504.578,18607584.0,1,14,"Japan",2176,72,68,0,1
+2000,"Summer","AUS","Australia",416901962163.479,19028802.0,0,40,"Australia",10651,199,300,1,183
+2000,"Summer","AUS","Australia",416901962163.479,19028802.0,1,40,"Australia",10651,199,300,1,183
+2002,"Winter","AUS","Australia",396436967262.563,19495210.0,0,15,"United States of America",2399,77,78,0,2
+2002,"Winter","AUS","Australia",396436967262.563,19495210.0,1,15,"United States of America",2399,77,78,0,2
+2004,"Summer","AUS","Australia",615643050220.515,19932722.0,0,40,"Greece",10625,201,301,0,157
+2004,"Summer","AUS","Australia",615643050220.515,19932722.0,1,40,"Greece",10625,201,301,0,157
+2006,"Winter","AUS","Australia",749708370332.989,20450966.0,0,15,"Italy",2508,80,84,0,2
+2006,"Winter","AUS","Australia",749708370332.989,20450966.0,1,15,"Italy",2508,80,84,0,2
+2008,"Summer","AUS","Australia",1058448244063.77,21249199.0,1,41,"People's Republic of China",10942,204,302,0,149
+2008,"Summer","AUS","Australia",1058448244063.77,21249199.0,0,41,"People's Republic of China",10942,204,302,0,149
+2010,"Winter","AUS","Australia",1152566632022.13,22031750.0,0,15,"Canada",2566,82,86,0,3
+2010,"Winter","AUS","Australia",1152566632022.13,22031750.0,1,15,"Canada",2566,82,86,0,3
+2012,"Summer","AUS","Australia",1552728401401.58,22733465.0,1,36,"Great Britain",10568,204,302,0,113
+2012,"Summer","AUS","Australia",1552728401401.58,22733465.0,0,36,"Great Britain",10568,204,302,0,113
+2014,"Winter","AUS","Australia",1474677007565.64,23475686.0,0,15,"Russian Federation",2780,88,98,0,3
+2014,"Winter","AUS","Australia",1474677007565.64,23475686.0,1,15,"Russian Federation",2780,88,98,0,3
+2016,"Summer","AUS","Australia",1211588128417.61,24190907.0,0,39,"Brazil",11238,207,306,0,82
+2016,"Summer","AUS","Australia",1211588128417.61,24190907.0,1,39,"Brazil",11238,207,306,0,82
+2018,"Winter","AUS","Australia",1433144978761.67,24963258.0,0,15,"Republic of Korea",2833,92,102,0,3
+2018,"Winter","AUS","Australia",1433144978761.67,24963258.0,1,15,"Republic of Korea",2833,92,102,0,3
+2020,"Summer","AUS","Australia",1333336461648.09,25649248.0,1,0,"Japan","","","",0,121
+2020,"Summer","AUS","Australia",1333336461648.09,25649248.0,0,0,"Japan","","","",0,121
+2022,"Winter","AUS","Australia",1695627535475.8,26014399.0,1,0,"People's Republic of China","","","",0,4
+2022,"Winter","AUS","Australia",1695627535475.8,26014399.0,0,0,"People's Republic of China","","","",0,4
+1960,"Summer","AUT","Austria",6624086313.14334,7047539.0,0,23,"Italy",5338,83,150,0,3
+1960,"Summer","AUT","Austria",6624086313.14334,7047539.0,1,23,"Italy",5338,83,150,0,3
+1960,"Winter","AUT","Austria",6624086313.14334,7047539.0,1,8,"United States of America",665,30,27,0,6
+1960,"Winter","AUT","Austria",6624086313.14334,7047539.0,0,8,"United States of America",665,30,27,0,6
+1964,"Summer","AUT","Austria",9213648655.97511,7223801.0,0,25,"Japan",5151,93,163,0,0
+1964,"Winter","AUT","Austria",9213648655.97511,7223801.0,1,10,"Austria",1091,36,34,1,17
+1964,"Winter","AUT","Austria",9213648655.97511,7223801.0,0,10,"Austria",1091,36,34,1,17
+1968,"Summer","AUT","Austria",12499863917.1003,7415403.0,1,24,"Mexico",5516,112,172,0,5
+1968,"Summer","AUT","Austria",12499863917.1003,7415403.0,0,24,"Mexico",5516,112,172,0,5
+1968,"Winter","AUT","Austria",12499863917.1003,7415403.0,0,10,"France",1158,37,35,0,15
+1968,"Winter","AUT","Austria",12499863917.1003,7415403.0,1,10,"France",1158,37,35,0,15
+1972,"Summer","AUT","Austria",21973207929.0434,7544201.0,0,28,"Germany",7134,121,195,0,3
+1972,"Summer","AUT","Austria",21973207929.0434,7544201.0,1,28,"Germany",7134,121,195,0,3
+1972,"Winter","AUT","Austria",21973207929.0434,7544201.0,0,10,"Japan",1006,35,35,0,5
+1972,"Winter","AUT","Austria",21973207929.0434,7544201.0,1,10,"Japan",1006,35,35,0,5
+1976,"Summer","AUT","Austria",42791707448.0325,7565525.0,0,27,"Canada",6084,92,198,0,1
+1976,"Summer","AUT","Austria",42791707448.0325,7565525.0,1,27,"Canada",6084,92,198,0,1
+1976,"Winter","AUT","Austria",42791707448.0325,7565525.0,0,10,"Austria",1123,37,37,1,7
+1976,"Winter","AUT","Austria",42791707448.0325,7565525.0,1,10,"Austria",1123,37,37,1,7
+1980,"Summer","AUT","Austria",81737498404.5948,7549433.0,0,27,"USSR",5179,80,203,0,5
+1980,"Summer","AUT","Austria",81737498404.5948,7549433.0,1,27,"USSR",5179,80,203,0,5
+1980,"Winter","AUT","Austria",81737498404.5948,7549433.0,0,10,"United States of America",1072,37,38,0,8
+1980,"Winter","AUT","Austria",81737498404.5948,7549433.0,1,10,"United States of America",1072,37,38,0,8
+1984,"Summer","AUT","Austria",67719055773.3306,7561434.0,0,29,"United States of America",6829,140,221,0,3
+1984,"Summer","AUT","Austria",67719055773.3306,7561434.0,1,29,"United States of America",6829,140,221,0,3
+1984,"Winter","AUT","Austria",67719055773.3306,7561434.0,0,10,"Yugoslavia",1272,49,39,0,1
+1984,"Winter","AUT","Austria",67719055773.3306,7561434.0,1,10,"Yugoslavia",1272,49,39,0,1
+1988,"Summer","AUT","Austria",132817124707.456,7585317.0,0,31,"Republic of Korea",8397,159,237,0,1
+1988,"Summer","AUT","Austria",132817124707.456,7585317.0,1,31,"Republic of Korea",8397,159,237,0,1
+1988,"Winter","AUT","Austria",132817124707.456,7585317.0,0,10,"Canada",1423,57,46,0,12
+1988,"Winter","AUT","Austria",132817124707.456,7585317.0,1,10,"Canada",1423,57,46,0,12
+1992,"Summer","AUT","Austria",194314032056.098,7840709.0,0,34,"Spain",9356,169,257,0,6
+1992,"Summer","AUT","Austria",194314032056.098,7840709.0,1,34,"Spain",9356,169,257,0,6
+1992,"Winter","AUT","Austria",194314032056.098,7840709.0,0,12,"France",1801,64,57,0,29
+1992,"Winter","AUT","Austria",194314032056.098,7840709.0,1,12,"France",1801,64,57,0,29
+1994,"Winter","AUT","Austria",202738023129.743,7936118.0,0,12,"Norway",1737,67,61,0,12
+1994,"Winter","AUT","Austria",202738023129.743,7936118.0,1,12,"Norway",1737,67,61,0,12
+1996,"Summer","AUT","Austria",235952581232.129,7959017.0,0,37,"United States of America",10318,197,271,0,3
+1996,"Summer","AUT","Austria",235952581232.129,7959017.0,1,37,"United States of America",10318,197,271,0,3
+1998,"Winter","AUT","Austria",217068085815.918,7976789.0,1,14,"Japan",2176,72,68,0,20
+1998,"Winter","AUT","Austria",217068085815.918,7976789.0,0,14,"Japan",2176,72,68,0,20
+2000,"Summer","AUT","Austria",196181599831.287,8011566.0,0,40,"Australia",10651,199,300,0,4
+2000,"Summer","AUT","Austria",196181599831.287,8011566.0,1,40,"Australia",10651,199,300,0,4
+2002,"Winter","AUT","Austria",212837224022.813,8081957.0,0,15,"United States of America",2399,77,78,0,20
+2002,"Winter","AUT","Austria",212837224022.813,8081957.0,1,15,"United States of America",2399,77,78,0,20
+2004,"Summer","AUT","Austria",299210411454.823,8171966.0,0,40,"Greece",10625,201,301,0,8
+2004,"Summer","AUT","Austria",299210411454.823,8171966.0,1,40,"Greece",10625,201,301,0,8
+2006,"Winter","AUT","Austria",333905979332.481,8268641.0,0,15,"Italy",2508,80,84,0,30
+2006,"Winter","AUT","Austria",333905979332.481,8268641.0,1,15,"Italy",2508,80,84,0,30
+2008,"Summer","AUT","Austria",429234399096.173,8321496.0,0,41,"People's Republic of China",10942,204,302,0,3
+2008,"Summer","AUT","Austria",429234399096.173,8321496.0,1,41,"People's Republic of China",10942,204,302,0,3
+2010,"Winter","AUT","Austria",389827789217.634,8363404.0,1,15,"Canada",2566,82,86,0,26
+2010,"Winter","AUT","Austria",389827789217.634,8363404.0,0,15,"Canada",2566,82,86,0,26
+2012,"Summer","AUT","Austria",406750487603.59,8429991.0,0,36,"Great Britain",10568,204,302,0,0
+2014,"Winter","AUT","Austria",438556021078.034,8546356.0,1,15,"Russian Federation",2780,88,98,0,27
+2014,"Winter","AUT","Austria",438556021078.034,8546356.0,0,15,"Russian Federation",2780,88,98,0,27
+2016,"Summer","AUT","Austria",393687359770.273,8736668.0,0,39,"Brazil",11238,207,306,0,2
+2016,"Summer","AUT","Austria",393687359770.273,8736668.0,1,39,"Brazil",11238,207,306,0,2
+2018,"Winter","AUT","Austria",452582294972.775,8840521.0,0,15,"Republic of Korea",2833,92,102,0,26
+2018,"Winter","AUT","Austria",452582294972.775,8840521.0,1,15,"Republic of Korea",2833,92,102,0,26
+2020,"Summer","AUT","Austria",434397601557.696,8916864.0,0,0,"Japan","","","",0,6
+2020,"Summer","AUT","Austria",434397601557.696,8916864.0,1,0,"Japan","","","",0,6
+2022,"Winter","AUT","Austria",473221298968.216,9041851.0,0,0,"People's Republic of China","","","",0,30
+2022,"Winter","AUT","Austria",473221298968.216,9041851.0,1,0,"People's Republic of China","","","",0,30
+1996,"Summer","AZE","Azerbaijan",3176507376.31836,7763000.0,0,37,"United States of America",10318,197,271,0,1
+1996,"Summer","AZE","Azerbaijan",3176507376.31836,7763000.0,1,37,"United States of America",10318,197,271,0,1
+1998,"Winter","AZE","Azerbaijan",4446368570.6901,7913000.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","AZE","Azerbaijan",5272615722.96892,8048600.0,0,40,"Australia",10651,199,300,0,3
+2000,"Summer","AZE","Azerbaijan",5272615722.96892,8048600.0,1,40,"Australia",10651,199,300,0,3
+2002,"Winter","AZE","Azerbaijan",6236087738.28284,8171950.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","AZE","Azerbaijan",8680405740.94125,8306500.0,0,40,"Greece",10625,201,301,0,5
+2004,"Summer","AZE","Azerbaijan",8680405740.94125,8306500.0,1,40,"Greece",10625,201,301,0,5
+2006,"Winter","AZE","Azerbaijan",20981929497.6188,8484550.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","AZE","Azerbaijan",48851293785.4483,8763400.0,0,41,"People's Republic of China",10942,204,302,0,6
+2008,"Summer","AZE","Azerbaijan",48851293785.4483,8763400.0,1,41,"People's Republic of China",10942,204,302,0,6
+2010,"Winter","AZE","Azerbaijan",52909294791.9262,9054332.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","AZE","Azerbaijan",69679944504.1972,9295784.0,0,36,"Great Britain",10568,204,302,0,9
+2012,"Summer","AZE","Azerbaijan",69679944504.1972,9295784.0,1,36,"Great Britain",10568,204,302,0,9
+2014,"Winter","AZE","Azerbaijan",75239785452.1022,9535079.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","AZE","Azerbaijan",37866996882.9157,9757812.0,0,39,"Brazil",11238,207,306,0,18
+2016,"Summer","AZE","Azerbaijan",37866996882.9157,9757812.0,1,39,"Brazil",11238,207,306,0,18
+2018,"Winter","AZE","Azerbaijan",47112470051.7701,9939771.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","AZE","Azerbaijan",42693000000.0,10093121.0,0,0,"Japan","","","",0,7
+2020,"Summer","AZE","Azerbaijan",42693000000.0,10093121.0,1,0,"Japan","","","",0,7
+2022,"Winter","AZE","Azerbaijan",78807470588.2353,10141756.0,0,0,"People's Republic of China","","","",0,0
+1996,"Summer","BDI","Burundi",869033856.317093,5930507.0,0,37,"United States of America",10318,197,271,0,1
+1996,"Summer","BDI","Burundi",869033856.317093,5930507.0,1,37,"United States of America",10318,197,271,0,1
+2000,"Summer","BDI","Burundi",870486065.883137,6307659.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","BDI","Burundi",915257323.3961,7120496.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","BDI","Burundi",1611835857.04588,8278109.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","BDI","Burundi",2327402362.81574,9795479.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","BDI","Burundi",2618093125.14687,10903327.0,0,39,"Brazil",11238,207,306,0,1
+2016,"Summer","BDI","Burundi",2618093125.14687,10903327.0,1,39,"Brazil",11238,207,306,0,1
+2020,"Summer","BDI","Burundi",3188355943.63513,12220227.0,0,0,"Japan","","","",0,0
+1960,"Summer","BEL","Belgium",11810619368.3874,9153489.0,0,23,"Italy",5338,83,150,0,4
+1960,"Summer","BEL","Belgium",11810619368.3874,9153489.0,1,23,"Italy",5338,83,150,0,4
+1964,"Summer","BEL","Belgium",16168044450.2523,9378113.0,1,25,"Japan",5151,93,163,0,3
+1964,"Summer","BEL","Belgium",16168044450.2523,9378113.0,0,25,"Japan",5151,93,163,0,3
+1964,"Winter","BEL","Belgium",16168044450.2523,9378113.0,0,10,"Austria",1091,36,34,0,0
+1968,"Summer","BEL","Belgium",21654856965.4281,9618756.0,0,24,"Mexico",5516,112,172,0,3
+1968,"Summer","BEL","Belgium",21654856965.4281,9618756.0,1,24,"Mexico",5516,112,172,0,3
+1972,"Summer","BEL","Belgium",37209418018.5134,9711115.0,0,28,"Germany",7134,121,195,0,2
+1972,"Summer","BEL","Belgium",37209418018.5134,9711115.0,1,28,"Germany",7134,121,195,0,2
+1972,"Winter","BEL","Belgium",37209418018.5134,9711115.0,0,10,"Japan",1006,35,35,0,0
+1976,"Summer","BEL","Belgium",71113882967.6071,9818227.0,0,27,"Canada",6084,92,198,0,9
+1976,"Summer","BEL","Belgium",71113882967.6071,9818227.0,1,27,"Canada",6084,92,198,0,9
+1976,"Winter","BEL","Belgium",71113882967.6071,9818227.0,0,10,"Austria",1123,37,37,0,0
+1980,"Summer","BEL","Belgium",126829314388.191,9859242.0,0,27,"USSR",5179,80,203,0,1
+1980,"Summer","BEL","Belgium",126829314388.191,9859242.0,1,27,"USSR",5179,80,203,0,1
+1980,"Winter","BEL","Belgium",126829314388.191,9859242.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","BEL","Belgium",83349530159.1734,9855372.0,0,29,"United States of America",6829,140,221,0,5
+1984,"Summer","BEL","Belgium",83349530159.1734,9855372.0,1,29,"United States of America",6829,140,221,0,5
+1984,"Winter","BEL","Belgium",83349530159.1734,9855372.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","BEL","Belgium",162299103675.261,9901664.0,0,31,"Republic of Korea",8397,159,237,0,2
+1988,"Summer","BEL","Belgium",162299103675.261,9901664.0,1,31,"Republic of Korea",8397,159,237,0,2
+1988,"Winter","BEL","Belgium",162299103675.261,9901664.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","BEL","Belgium",234781652446.675,10045158.0,0,34,"Spain",9356,169,257,0,3
+1992,"Summer","BEL","Belgium",234781652446.675,10045158.0,1,34,"Spain",9356,169,257,0,3
+1992,"Winter","BEL","Belgium",234781652446.675,10045158.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","BEL","Belgium",244884129491.198,10115603.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","BEL","Belgium",279201433224.756,10156637.0,0,37,"United States of America",10318,197,271,0,6
+1996,"Summer","BEL","Belgium",279201433224.756,10156637.0,1,37,"United States of America",10318,197,271,0,6
+1998,"Winter","BEL","Belgium",258528339631.029,10203008.0,0,14,"Japan",2176,72,68,0,1
+1998,"Winter","BEL","Belgium",258528339631.029,10203008.0,1,14,"Japan",2176,72,68,0,1
+2000,"Summer","BEL","Belgium",236792460312.471,10251250.0,0,40,"Australia",10651,199,300,0,7
+2000,"Summer","BEL","Belgium",236792460312.471,10251250.0,1,40,"Australia",10651,199,300,0,7
+2002,"Winter","BEL","Belgium",258383599375.177,10332785.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","BEL","Belgium",369214712443.206,10421137.0,0,40,"Greece",10625,201,301,0,3
+2004,"Summer","BEL","Belgium",369214712443.206,10421137.0,1,40,"Greece",10625,201,301,0,3
+2006,"Winter","BEL","Belgium",408259840868.823,10547958.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","BEL","Belgium",517328087920.078,10709973.0,0,41,"People's Republic of China",10942,204,302,0,5
+2008,"Summer","BEL","Belgium",517328087920.078,10709973.0,1,41,"People's Republic of China",10942,204,302,0,5
+2010,"Winter","BEL","Belgium",481556503720.001,10895586.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","BEL","Belgium",498414364944.961,11106932.0,0,36,"Great Britain",10568,204,302,0,3
+2012,"Summer","BEL","Belgium",498414364944.961,11106932.0,1,36,"Great Britain",10568,204,302,0,3
+2014,"Winter","BEL","Belgium",537987419164.351,11209057.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","BEL","Belgium",474271566739.729,11331422.0,0,39,"Brazil",11238,207,306,0,21
+2016,"Summer","BEL","Belgium",474271566739.729,11331422.0,1,39,"Brazil",11238,207,306,0,21
+2018,"Winter","BEL","Belgium",542638913427.921,11427054.0,0,15,"Republic of Korea",2833,92,102,0,1
+2018,"Winter","BEL","Belgium",542638913427.921,11427054.0,1,15,"Republic of Korea",2833,92,102,0,1
+2020,"Summer","BEL","Belgium",529694473501.791,11538604.0,0,0,"Japan","","","",0,24
+2020,"Summer","BEL","Belgium",529694473501.791,11538604.0,1,0,"Japan","","","",0,24
+2022,"Winter","BEL","Belgium",591474463578.602,11685814.0,0,0,"People's Republic of China","","","",0,2
+2022,"Winter","BEL","Belgium",591474463578.602,11685814.0,1,0,"People's Republic of China","","","",0,2
+1972,"Summer","BEN","Benin",410331856.991218,3156408.0,0,28,"Germany",7134,121,195,0,0
+1980,"Summer","BEN","Benin",1405251846.54048,3833939.0,0,27,"USSR",5179,80,203,0,0
+1984,"Summer","BEN","Benin",1051134008.78979,4293070.0,0,29,"United States of America",6829,140,221,0,0
+1988,"Summer","BEN","Benin",1620246083.79478,4831624.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","BEN","Benin",1695315305.70308,5457778.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","BEN","Benin",2361116449.39308,6203860.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","BEN","Benin",3519991440.47913,6998023.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","BEN","Benin",6190270380.49856,7894554.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","BEN","Benin",9787734526.23965,8906469.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","BEN","Benin",11141358115.8991,10014078.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","BEN","Benin",11821065853.3838,11260085.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","BEN","Benin",15686741883.934,12643123.0,0,0,"Japan","","","",0,0
+1992,"Summer","BIH","Bosnia and Herzegovina",4735044707.23969,4275730.0,0,34,"Spain",9356,169,257,0,0
+1994,"Winter","BIH","Bosnia and Herzegovina",1255802469.1358,3762330.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","BIH","Bosnia and Herzegovina",2786045321.63743,3907751.0,0,37,"United States of America",10318,197,271,0,0
+1998,"Winter","BIH","Bosnia and Herzegovina",4116774300.60671,4115059.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","BIH","Bosnia and Herzegovina",5567772768.81188,4179350.0,0,40,"Australia",10651,199,300,0,0
+2002,"Winter","BIH","Bosnia and Herzegovina",6728220982.88398,4198410.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","BIH","Bosnia and Herzegovina",10156541220.9704,4142860.0,0,40,"Greece",10625,201,301,0,0
+2006,"Winter","BIH","Bosnia and Herzegovina",12864841905.9543,4058086.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","BIH","Bosnia and Herzegovina",19112796623.1175,3943392.0,0,41,"People's Republic of China",10942,204,302,0,0
+2010,"Winter","BIH","Bosnia and Herzegovina",17176315803.7298,3811088.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","BIH","Bosnia and Herzegovina",17226735995.6905,3674374.0,0,36,"Great Britain",10568,204,302,0,0
+2014,"Winter","BIH","Bosnia and Herzegovina",18558734107.1478,3571068.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","BIH","Bosnia and Herzegovina",17116926553.8513,3480986.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","BIH","Bosnia and Herzegovina",20484058033.1144,3400129.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","BIH","Bosnia and Herzegovina",20226038369.9191,3318407.0,0,0,"Japan","","","",0,0
+2022,"Winter","BIH","Bosnia and Herzegovina",24534663636.1778,3233526.0,0,0,"People's Republic of China","","","",0,0
+1994,"Winter","BLR","Belarus",14931435232.078,10226955.0,0,12,"Norway",1737,67,61,0,2
+1994,"Winter","BLR","Belarus",14931435232.078,10226955.0,1,12,"Norway",1737,67,61,0,2
+1996,"Summer","BLR","Belarus",14500437519.8258,10159569.0,0,37,"United States of America",10318,197,271,0,23
+1996,"Summer","BLR","Belarus",14500437519.8258,10159569.0,1,37,"United States of America",10318,197,271,0,23
+1998,"Winter","BLR","Belarus",15222012660.4232,10071963.0,0,14,"Japan",2176,72,68,0,2
+1998,"Winter","BLR","Belarus",15222012660.4232,10071963.0,1,14,"Japan",2176,72,68,0,2
+2000,"Summer","BLR","Belarus",12736856827.9847,9979610.0,0,40,"Australia",10651,199,300,0,22
+2000,"Summer","BLR","Belarus",12736856827.9847,9979610.0,1,40,"Australia",10651,199,300,0,22
+2002,"Winter","BLR","Belarus",14594900944.7658,9865548.0,0,15,"United States of America",2399,77,78,0,1
+2002,"Winter","BLR","Belarus",14594900944.7658,9865548.0,1,15,"United States of America",2399,77,78,0,1
+2004,"Summer","BLR","Belarus",23141566292.9462,9730146.0,0,40,"Greece",10625,201,301,0,15
+2004,"Summer","BLR","Belarus",23141566292.9462,9730146.0,1,40,"Greece",10625,201,301,0,15
+2006,"Winter","BLR","Belarus",36961894281.3444,9604924.0,0,15,"Italy",2508,80,84,0,1
+2006,"Winter","BLR","Belarus",36961894281.3444,9604924.0,1,15,"Italy",2508,80,84,0,1
+2008,"Summer","BLR","Belarus",60752106347.126,9527985.0,0,41,"People's Republic of China",10942,204,302,0,25
+2008,"Summer","BLR","Belarus",60752106347.126,9527985.0,1,41,"People's Republic of China",10942,204,302,0,25
+2010,"Winter","BLR","Belarus",57231904542.8755,9483836.0,0,15,"Canada",2566,82,86,0,3
+2010,"Winter","BLR","Belarus",57231904542.8755,9483836.0,1,15,"Canada",2566,82,86,0,3
+2012,"Summer","BLR","Belarus",65685890438.8922,9446836.0,0,36,"Great Britain",10568,204,302,0,21
+2012,"Summer","BLR","Belarus",65685890438.8922,9446836.0,1,36,"Great Britain",10568,204,302,0,21
+2014,"Winter","BLR","Belarus",78813069120.9984,9448515.0,0,15,"Russian Federation",2780,88,98,0,6
+2014,"Winter","BLR","Belarus",78813069120.9984,9448515.0,1,15,"Russian Federation",2780,88,98,0,6
+2016,"Summer","BLR","Belarus",47723545321.259,9469379.0,0,39,"Brazil",11238,207,306,0,12
+2016,"Summer","BLR","Belarus",47723545321.259,9469379.0,1,39,"Brazil",11238,207,306,0,12
+2018,"Winter","BLR","Belarus",60031026576.26,9438785.0,1,15,"Republic of Korea",2833,92,102,0,6
+2018,"Winter","BLR","Belarus",60031026576.26,9438785.0,0,15,"Republic of Korea",2833,92,102,0,6
+2020,"Summer","BLR","Belarus",61371673344.7424,9379952.0,0,0,"Japan","","","",0,9
+2020,"Summer","BLR","Belarus",61371673344.7424,9379952.0,1,0,"Japan","","","",0,9
+2022,"Winter","BLR","Belarus",73775179924.603,9228071.0,0,0,"People's Republic of China","","","",0,2
+2022,"Winter","BLR","Belarus",73775179924.603,9228071.0,1,0,"People's Republic of China","","","",0,2
+1964,"Summer","BOL","Bolivia",544023569.023569,4029472.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","BOL","Bolivia",857912457.912458,4389249.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","BOL","Bolivia",1257615644.97932,4793804.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","BOL","Bolivia",2731984007.996,5244355.0,0,27,"Canada",6084,92,198,0,0
+1980,"Winter","BOL","Bolivia",4537479608.48287,5736088.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","BOL","Bolivia",6169483225.35915,6251926.0,0,29,"United States of America",6829,140,221,0,0
+1984,"Winter","BOL","Bolivia",6169483225.35915,6251926.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","BOL","Bolivia",4597612362.2748,6804072.0,0,31,"Republic of Korea",8397,159,237,0,0
+1988,"Winter","BOL","Bolivia",4597612362.2748,6804072.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","BOL","Bolivia",5643868748.68126,7394419.0,0,34,"Spain",9356,169,257,0,0
+1992,"Winter","BOL","Bolivia",5643868748.68126,7394419.0,0,12,"France",1801,64,57,0,0
+1996,"Summer","BOL","Bolivia",7396949126.35685,7989367.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","BOL","Bolivia",8397855484.76908,8592656.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","BOL","Bolivia",8773451751.5121,9216279.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","BOL","Bolivia",16674276285.8956,9880593.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","BOL","Bolivia",27084497481.9103,10569697.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","BOL","Bolivia",33941126193.9219,11263015.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","BOL","Bolivia",48414038842.2576,11606905.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","BOL","Bolivia",42313784081.042,11936162.0,0,0,"Japan","","","",0,0
+2022,"Winter","BOL","Bolivia",50959081953.6903,12224110.0,0,0,"People's Republic of China","","","",0,0
+1960,"Summer","BRA","Brazil",17030465539.3906,73092515.0,0,23,"Italy",5338,83,150,0,13
+1960,"Summer","BRA","Brazil",17030465539.3906,73092515.0,1,23,"Italy",5338,83,150,0,13
+1964,"Summer","BRA","Brazil",20963733694.9749,82262794.0,0,25,"Japan",5151,93,163,0,12
+1964,"Summer","BRA","Brazil",20963733694.9749,82262794.0,1,25,"Japan",5151,93,163,0,12
+1968,"Summer","BRA","Brazil",33930457425.2613,91659246.0,0,24,"Mexico",5516,112,172,0,4
+1968,"Summer","BRA","Brazil",33930457425.2613,91659246.0,1,24,"Mexico",5516,112,172,0,4
+1972,"Summer","BRA","Brazil",58434858374.8696,101194394.0,0,28,"Germany",7134,121,195,0,2
+1972,"Summer","BRA","Brazil",58434858374.8696,101194394.0,1,28,"Germany",7134,121,195,0,2
+1976,"Summer","BRA","Brazil",153168949208.207,111286504.0,0,27,"Canada",6084,92,198,0,3
+1976,"Summer","BRA","Brazil",153168949208.207,111286504.0,1,27,"Canada",6084,92,198,0,3
+1980,"Summer","BRA","Brazil",237393489892.637,122288383.0,0,27,"USSR",5179,80,203,0,9
+1980,"Summer","BRA","Brazil",237393489892.637,122288383.0,1,27,"USSR",5179,80,203,0,9
+1984,"Summer","BRA","Brazil",188339974086.58,133888775.0,0,29,"United States of America",6829,140,221,0,36
+1984,"Summer","BRA","Brazil",188339974086.58,133888775.0,1,29,"United States of America",6829,140,221,0,36
+1988,"Summer","BRA","Brazil",307881930752.268,145253973.0,0,31,"Republic of Korea",8397,159,237,0,23
+1988,"Summer","BRA","Brazil",307881930752.268,145253973.0,1,31,"Republic of Korea",8397,159,237,0,23
+1992,"Summer","BRA","Brazil",328191909882.232,155900790.0,0,34,"Spain",9356,169,257,0,14
+1992,"Summer","BRA","Brazil",328191909882.232,155900790.0,1,34,"Spain",9356,169,257,0,14
+1992,"Winter","BRA","Brazil",328191909882.232,155900790.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","BRA","Brazil",525369467295.737,160980472.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","BRA","Brazil",850426432991.742,166037122.0,1,37,"United States of America",10318,197,271,0,63
+1996,"Summer","BRA","Brazil",850426432991.742,166037122.0,0,37,"United States of America",10318,197,271,0,63
+1998,"Winter","BRA","Brazil",863710759256.435,171039804.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","BRA","Brazil",655448231983.527,175873720.0,0,40,"Australia",10651,199,300,0,48
+2000,"Summer","BRA","Brazil",655448231983.527,175873720.0,1,40,"Australia",10651,199,300,0,48
+2002,"Winter","BRA","Brazil",509795273806.715,180476685.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","BRA","Brazil",669289424806.307,184722043.0,0,40,"Greece",10625,201,301,0,40
+2004,"Summer","BRA","Brazil",669289424806.307,184722043.0,1,40,"Greece",10625,201,301,0,40
+2006,"Winter","BRA","Brazil",1107626541434.92,188820682.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","BRA","Brazil",1695855083497.52,192672317.0,0,41,"People's Republic of China",10942,204,302,0,83
+2008,"Summer","BRA","Brazil",1695855083497.52,192672317.0,1,41,"People's Republic of China",10942,204,302,0,83
+2010,"Winter","BRA","Brazil",2208837745100.55,196353492.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","BRA","Brazil",2465227802806.76,199977707.0,0,36,"Great Britain",10568,204,302,0,58
+2012,"Summer","BRA","Brazil",2465227802806.76,199977707.0,1,36,"Great Britain",10568,204,302,0,58
+2014,"Winter","BRA","Brazil",2456043727198.85,203459650.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","BRA","Brazil",1795693482853.01,206859578.0,0,39,"Brazil",11238,207,306,1,49
+2016,"Summer","BRA","Brazil",1795693482853.01,206859578.0,1,39,"Brazil",11238,207,306,1,49
+2018,"Winter","BRA","Brazil",1916933898010.99,210166592.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","BRA","Brazil",1476107231310.49,213196304.0,0,0,"Japan","","","",0,54
+2020,"Summer","BRA","Brazil",1476107231310.49,213196304.0,1,0,"Japan","","","",0,54
+2022,"Winter","BRA","Brazil",1951923942083.32,215313498.0,0,0,"People's Republic of China","","","",0,0
+1984,"Summer","BRN","Brunei Darussalam",7632788075.1621,214682.0,0,29,"United States of America",6829,140,221,0,0
+1988,"Summer","BRN","Brunei Darussalam",4535130304.71096,245729.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","BRN","Brunei Darussalam",6327966435.17026,277416.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","BRN","Brunei Darussalam",7663377306.04996,306196.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","BRN","Brunei Darussalam",6570999087.56742,333926.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","BRN","Brunei Darussalam",8619178773.51458,360461.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","BRN","Brunei Darussalam",15926456515.0049,384568.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","BRN","Brunei Darussalam",19048443340.7732,406634.0,0,36,"Great Britain",10568,204,302,0,1
+2012,"Summer","BRN","Brunei Darussalam",19048443340.7732,406634.0,1,36,"Great Britain",10568,204,302,0,1
+2016,"Summer","BRN","Brunei Darussalam",11400266044.6651,425994.0,0,39,"Brazil",11238,207,306,0,2
+2016,"Summer","BRN","Brunei Darussalam",11400266044.6651,425994.0,1,39,"Brazil",11238,207,306,0,2
+2020,"Summer","BRN","Brunei Darussalam",12005799653.9835,441725.0,0,0,"Japan","","","",0,1
+2020,"Summer","BRN","Brunei Darussalam",12005799653.9835,441725.0,1,0,"Japan","","","",0,1
+1968,"Summer","CAF","Central African Republic",191767441.604577,1975257.0,0,24,"Mexico",5516,112,172,0,0
+1984,"Summer","CAF","Central African Republic",637820670.299604,2523538.0,0,29,"United States of America",6829,140,221,0,0
+1988,"Summer","CAF","Central African Republic",1264899287.51261,2657235.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","CAF","Central African Republic",1411917553.12436,2991727.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","CAF","Central African Republic",1007791127.09913,3363570.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","CAF","Central African Republic",916777282.691659,3759170.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","CAF","Central African Republic",1272360517.32373,4115138.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","CAF","Central African Republic",1993407888.49838,4467233.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","CAF","Central African Republic",2510126512.22831,4773306.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","CAF","Central African Republic",1825018144.65595,4904177.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","CAF","Central African Republic",2326720900.38047,5343020.0,0,0,"Japan","","","",0,0
+1960,"Summer","CAN","Canada",40563768946.9503,17909356.0,1,23,"Italy",5338,83,150,0,9
+1960,"Summer","CAN","Canada",40563768946.9503,17909356.0,0,23,"Italy",5338,83,150,0,9
+1960,"Winter","CAN","Canada",40563768946.9503,17909356.0,1,8,"United States of America",665,30,27,0,21
+1960,"Winter","CAN","Canada",40563768946.9503,17909356.0,0,8,"United States of America",665,30,27,0,21
+1964,"Summer","CAN","Canada",49503663836.3665,19325000.0,0,25,"Japan",5151,93,163,0,5
+1964,"Summer","CAN","Canada",49503663836.3665,19325000.0,1,25,"Japan",5151,93,163,0,5
+1964,"Winter","CAN","Canada",49503663836.3665,19325000.0,0,10,"Austria",1091,36,34,0,7
+1964,"Winter","CAN","Canada",49503663836.3665,19325000.0,1,10,"Austria",1091,36,34,0,7
+1968,"Summer","CAN","Canada",72048833006.1602,20744000.0,0,24,"Mexico",5516,112,172,0,10
+1968,"Summer","CAN","Canada",72048833006.1602,20744000.0,1,24,"Mexico",5516,112,172,0,10
+1968,"Winter","CAN","Canada",72048833006.1602,20744000.0,0,10,"France",1158,37,35,0,20
+1968,"Winter","CAN","Canada",72048833006.1602,20744000.0,1,10,"France",1158,37,35,0,20
+1972,"Summer","CAN","Canada",113463848873.624,22218463.0,0,28,"Germany",7134,121,195,0,10
+1972,"Summer","CAN","Canada",113463848873.624,22218463.0,1,28,"Germany",7134,121,195,0,10
+1972,"Winter","CAN","Canada",113463848873.624,22218463.0,0,10,"Japan",1006,35,35,0,1
+1972,"Winter","CAN","Canada",113463848873.624,22218463.0,1,10,"Japan",1006,35,35,0,1
+1976,"Summer","CAN","Canada",207271612576.065,23449808.0,0,27,"Canada",6084,92,198,1,20
+1976,"Summer","CAN","Canada",207271612576.065,23449808.0,1,27,"Canada",6084,92,198,1,20
+1976,"Winter","CAN","Canada",207271612576.065,23449808.0,0,10,"Austria",1123,37,37,0,3
+1976,"Winter","CAN","Canada",207271612576.065,23449808.0,1,10,"Austria",1123,37,37,0,3
+1980,"Winter","CAN","Canada",274776566028.053,24515667.0,0,10,"United States of America",1072,37,38,0,2
+1980,"Winter","CAN","Canada",274776566028.053,24515667.0,1,10,"United States of America",1072,37,38,0,2
+1984,"Summer","CAN","Canada",356718400123.543,25607053.0,0,29,"United States of America",6829,140,221,0,87
+1984,"Summer","CAN","Canada",356718400123.543,25607053.0,1,29,"United States of America",6829,140,221,0,87
+1984,"Winter","CAN","Canada",356718400123.543,25607053.0,0,10,"Yugoslavia",1272,49,39,0,4
+1984,"Winter","CAN","Canada",356718400123.543,25607053.0,1,10,"Yugoslavia",1272,49,39,0,4
+1988,"Summer","CAN","Canada",509380027626.554,26791747.0,0,31,"Republic of Korea",8397,159,237,0,23
+1988,"Summer","CAN","Canada",509380027626.554,26791747.0,1,31,"Republic of Korea",8397,159,237,0,23
+1988,"Winter","CAN","Canada",509380027626.554,26791747.0,0,10,"Canada",1423,57,46,1,6
+1988,"Winter","CAN","Canada",509380027626.554,26791747.0,1,10,"Canada",1423,57,46,1,6
+1992,"Summer","CAN","Canada",594387358318.855,28371264.0,0,34,"Spain",9356,169,257,0,44
+1992,"Summer","CAN","Canada",594387358318.855,28371264.0,1,34,"Spain",9356,169,257,0,44
+1992,"Winter","CAN","Canada",594387358318.855,28371264.0,0,12,"France",1801,64,57,0,36
+1992,"Winter","CAN","Canada",594387358318.855,28371264.0,1,12,"France",1801,64,57,0,36
+1994,"Winter","CAN","Canada",579944346807.264,29000663.0,0,12,"Norway",1737,67,61,0,37
+1994,"Winter","CAN","Canada",579944346807.264,29000663.0,1,12,"Norway",1737,67,61,0,37
+1996,"Summer","CAN","Canada",630607994132.747,29610218.0,0,37,"United States of America",10318,197,271,0,50
+1996,"Summer","CAN","Canada",630607994132.747,29610218.0,1,37,"United States of America",10318,197,271,0,50
+1998,"Winter","CAN","Canada",633999325918.436,30155173.0,1,14,"Japan",2176,72,68,0,49
+1998,"Winter","CAN","Canada",633999325918.436,30155173.0,0,14,"Japan",2176,72,68,0,49
+2000,"Summer","CAN","Canada",744773415931.587,30685730.0,0,40,"Australia",10651,199,300,0,31
+2000,"Summer","CAN","Canada",744773415931.587,30685730.0,1,40,"Australia",10651,199,300,0,31
+2002,"Winter","CAN","Canada",760650608551.583,31359199.0,1,15,"United States of America",2399,77,78,0,74
+2002,"Winter","CAN","Canada",760650608551.583,31359199.0,0,15,"United States of America",2399,77,78,0,74
+2004,"Summer","CAN","Canada",1026691006917.76,31938807.0,0,40,"Greece",10625,201,301,0,17
+2004,"Summer","CAN","Canada",1026691006917.76,31938807.0,1,40,"Greece",10625,201,301,0,17
+2006,"Winter","CAN","Canada",1319291255289.14,32571193.0,0,15,"Italy",2508,80,84,0,69
+2006,"Winter","CAN","Canada",1319291255289.14,32571193.0,1,15,"Italy",2508,80,84,0,69
+2008,"Summer","CAN","Canada",1552993439550.14,33247298.0,0,41,"People's Republic of China",10942,204,302,0,36
+2008,"Summer","CAN","Canada",1552993439550.14,33247298.0,1,41,"People's Republic of China",10942,204,302,0,36
+2010,"Winter","CAN","Canada",1617349192091.46,34005902.0,0,15,"Canada",2566,82,86,1,90
+2010,"Winter","CAN","Canada",1617349192091.46,34005902.0,1,15,"Canada",2566,82,86,1,90
+2012,"Summer","CAN","Canada",1828359477071.97,34713395.0,0,36,"Great Britain",10568,204,302,0,55
+2012,"Summer","CAN","Canada",1828359477071.97,34713395.0,1,36,"Great Britain",10568,204,302,0,55
+2014,"Winter","CAN","Canada",1805751688808.98,35434066.0,0,15,"Russian Federation",2780,88,98,0,86
+2014,"Winter","CAN","Canada",1805751688808.98,35434066.0,1,15,"Russian Federation",2780,88,98,0,86
+2016,"Summer","CAN","Canada",1527996250640.92,36110803.0,0,39,"Brazil",11238,207,306,0,69
+2016,"Summer","CAN","Canada",1527996250640.92,36110803.0,1,39,"Brazil",11238,207,306,0,69
+2018,"Winter","CAN","Canada",1725330736237.69,37072620.0,0,15,"Republic of Korea",2833,92,102,0,91
+2018,"Winter","CAN","Canada",1725330736237.69,37072620.0,1,15,"Republic of Korea",2833,92,102,0,91
+2020,"Summer","CAN","Canada",1655686966881.99,38028638.0,0,0,"Japan","","","",0,79
+2020,"Summer","CAN","Canada",1655686966881.99,38028638.0,1,0,"Japan","","","",0,79
+2022,"Winter","CAN","Canada",2200562785046.32,38939056.0,0,0,"People's Republic of China","","","",0,65
+2022,"Winter","CAN","Canada",2200562785046.32,38939056.0,1,0,"People's Republic of China","","","",0,65
+1960,"Summer","CHI","Channel Islands","",109186.0,0,23,"Italy",5338,83,150,0,0
+1960,"Winter","CHI","Channel Islands","",109186.0,0,8,"United States of America",665,30,27,0,0
+1964,"Summer","CHI","Channel Islands","",113596.0,0,25,"Japan",5151,93,163,0,0
+1964,"Winter","CHI","Channel Islands","",113596.0,0,10,"Austria",1091,36,34,0,0
+1968,"Summer","CHI","Channel Islands","",118707.0,0,24,"Mexico",5516,112,172,0,0
+1968,"Winter","CHI","Channel Islands","",118707.0,0,10,"France",1158,37,35,0,0
+1972,"Summer","CHI","Channel Islands","",123348.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","CHI","Channel Islands","",127052.0,0,27,"Canada",6084,92,198,0,0
+1976,"Winter","CHI","Channel Islands","",127052.0,0,10,"Austria",1123,37,37,0,0
+1984,"Summer","CHI","Channel Islands","",132154.0,0,29,"United States of America",6829,140,221,0,0
+1984,"Winter","CHI","Channel Islands","",132154.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","CHI","Channel Islands","",137765.0,0,31,"Republic of Korea",8397,159,237,0,1
+1988,"Summer","CHI","Channel Islands","",137765.0,1,31,"Republic of Korea",8397,159,237,0,1
+1988,"Winter","CHI","Channel Islands","",137765.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","CHI","Channel Islands","",142011.0,0,34,"Spain",9356,169,257,0,0
+1992,"Winter","CHI","Channel Islands","",142011.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","CHI","Channel Islands","",142466.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","CHI","Channel Islands","",142898.0,0,37,"United States of America",10318,197,271,0,0
+1998,"Winter","CHI","Channel Islands",5945677376.61477,144211.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","CHI","Channel Islands",6439703434.71024,145306.0,0,40,"Australia",10651,199,300,0,17
+2000,"Summer","CHI","Channel Islands",6439703434.71024,145306.0,1,40,"Australia",10651,199,300,0,17
+2002,"Winter","CHI","Channel Islands",6663669064.7482,147167.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","CHI","Channel Islands",8553643354.08275,149538.0,0,40,"Greece",10625,201,301,0,4
+2004,"Summer","CHI","Channel Islands",8553643354.08275,149538.0,1,40,"Greece",10625,201,301,0,4
+2006,"Winter","CHI","Channel Islands",9676172953.08188,151985.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","CHI","Channel Islands","",154475.0,0,41,"People's Republic of China",10942,204,302,0,1
+2008,"Summer","CHI","Channel Islands","",154475.0,1,41,"People's Republic of China",10942,204,302,0,1
+2010,"Winter","CHI","Channel Islands",8902359316.35606,156933.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","CHI","Channel Islands",9454638123.23572,158621.0,0,36,"Great Britain",10568,204,302,0,0
+2014,"Winter","CHI","Channel Islands",10527973277.6068,160912.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","CHI","Channel Islands",9168857222.32574,163721.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","CHI","Channel Islands",10026394043.6136,167259.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","CHI","Channel Islands",9439810769.23077,171113.0,0,0,"Japan","","","",0,0
+2022,"Winter","CHI","Channel Islands",11308272505.183,174079.0,0,0,"People's Republic of China","","","",0,0
+1980,"Winter","CHN","China",191487500000.0,981235000.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","CHN","China",260442857142.857,1036825000.0,0,29,"United States of America",6829,140,221,0,74
+1984,"Summer","CHN","China",260442857142.857,1036825000.0,1,29,"United States of America",6829,140,221,0,74
+1984,"Winter","CHN","China",260442857142.857,1036825000.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","CHN","China",312888888888.889,1101630000.0,1,31,"Republic of Korea",8397,159,237,0,52
+1988,"Summer","CHN","China",312888888888.889,1101630000.0,0,31,"Republic of Korea",8397,159,237,0,52
+1988,"Winter","CHN","China",312888888888.889,1101630000.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","CHN","China",428502354788.069,1164970000.0,0,34,"Spain",9356,169,257,0,82
+1992,"Summer","CHN","China",428502354788.069,1164970000.0,1,34,"Spain",9356,169,257,0,82
+1992,"Winter","CHN","China",428502354788.069,1164970000.0,0,12,"France",1801,64,57,0,3
+1992,"Winter","CHN","China",428502354788.069,1164970000.0,1,12,"France",1801,64,57,0,3
+1994,"Winter","CHN","China",566929539493.172,1191835000.0,0,12,"Norway",1737,67,61,0,3
+1994,"Winter","CHN","China",566929539493.172,1191835000.0,1,12,"Norway",1737,67,61,0,3
+1996,"Summer","CHN","China",868523936530.083,1217550000.0,1,37,"United States of America",10318,197,271,0,106
+1996,"Summer","CHN","China",868523936530.083,1217550000.0,0,37,"United States of America",10318,197,271,0,106
+1998,"Winter","CHN","China",1037134141760.35,1241935000.0,0,14,"Japan",2176,72,68,0,14
+1998,"Winter","CHN","China",1037134141760.35,1241935000.0,1,14,"Japan",2176,72,68,0,14
+2000,"Summer","CHN","China",1223754919971.05,1262645000.0,1,40,"Australia",10651,199,300,0,79
+2000,"Summer","CHN","China",1223754919971.05,1262645000.0,0,40,"Australia",10651,199,300,0,79
+2002,"Winter","CHN","China",1489821682050.54,1280400000.0,1,15,"United States of America",2399,77,78,0,16
+2002,"Winter","CHN","China",1489821682050.54,1280400000.0,0,15,"United States of America",2399,77,78,0,16
+2004,"Summer","CHN","China",1984196551300.44,1296075000.0,0,40,"Greece",10625,201,301,0,94
+2004,"Summer","CHN","China",1984196551300.44,1296075000.0,1,40,"Greece",10625,201,301,0,94
+2006,"Winter","CHN","China",2791498472804.33,1311020000.0,0,15,"Italy",2508,80,84,0,13
+2006,"Winter","CHN","China",2791498472804.33,1311020000.0,1,15,"Italy",2508,80,84,0,13
+2008,"Summer","CHN","China",4667346414521.95,1324655000.0,0,41,"People's Republic of China",10942,204,302,0,184
+2008,"Summer","CHN","China",4667346414521.95,1324655000.0,1,41,"People's Republic of China",10942,204,302,0,184
+2010,"Winter","CHN","China",6192564874453.29,1337705000.0,0,15,"Canada",2566,82,86,0,19
+2010,"Winter","CHN","China",6192564874453.29,1337705000.0,1,15,"Canada",2566,82,86,0,19
+2012,"Summer","CHN","China",8673664713189.24,1354190000.0,0,36,"Great Britain",10568,204,302,0,126
+2012,"Summer","CHN","China",8673664713189.24,1354190000.0,1,36,"Great Britain",10568,204,302,0,126
+2014,"Winter","CHN","China",10674533168257.4,1371860000.0,0,15,"Russian Federation",2780,88,98,0,12
+2014,"Winter","CHN","China",10674533168257.4,1371860000.0,1,15,"Russian Federation",2780,88,98,0,12
+2016,"Summer","CHN","China",11456024084962.0,1387790000.0,0,39,"Brazil",11238,207,306,0,113
+2016,"Summer","CHN","China",11456024084962.0,1387790000.0,1,39,"Brazil",11238,207,306,0,113
+2018,"Winter","CHN","China",14147765772963.8,1402760000.0,0,15,"Republic of Korea",2833,92,102,0,14
+2018,"Winter","CHN","China",14147765772963.8,1402760000.0,1,15,"Republic of Korea",2833,92,102,0,14
+2020,"Summer","CHN","China",14996414166715.1,1411100000.0,0,0,"Japan","","","",0,135
+2020,"Summer","CHN","China",14996414166715.1,1411100000.0,1,0,"Japan","","","",0,135
+2022,"Winter","CHN","China",18316765021690.2,1412175000.0,0,0,"People's Republic of China","","","",0,26
+2022,"Winter","CHN","China",18316765021690.2,1412175000.0,1,0,"People's Republic of China","","","",0,26
+1964,"Summer","CIV","Cote d'Ivoire",921063326.589918,4321368.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","CIV","Cote d'Ivoire",1281281276.72357,5050106.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","CIV","Cote d'Ivoire",1849400401.64724,5979984.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","CIV","Cote d'Ivoire",4662053824.83955,7142690.0,0,27,"Canada",6084,92,198,0,0
+1984,"Summer","CIV","Cote d'Ivoire",6841639246.8996,9621405.0,0,29,"United States of America",6829,140,221,0,1
+1984,"Summer","CIV","Cote d'Ivoire",6841639246.8996,9621405.0,1,29,"United States of America",6829,140,221,0,1
+1988,"Summer","CIV","Cote d'Ivoire",10255169805.7996,11043193.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","CIV","Cote d'Ivoire",11152971273.9383,12838314.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","CIV","Cote d'Ivoire",18071152830.6101,14810946.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","CIV","Cote d'Ivoire",16577533891.8785,16799670.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","CIV","Cote d'Ivoire",23510575681.3686,18544903.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","CIV","Cote d'Ivoire",34078240293.2559,20244449.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","CIV","Cote d'Ivoire",36302302877.2977,22010712.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","CIV","Cote d'Ivoire",48407761036.8238,24213622.0,1,39,"Brazil",11238,207,306,0,2
+2016,"Summer","CIV","Cote d'Ivoire",48407761036.8238,24213622.0,0,39,"Brazil",11238,207,306,0,2
+2020,"Summer","CIV","Cote d'Ivoire",63027852805.4204,26811790.0,0,0,"Japan","","","",0,1
+2020,"Summer","CIV","Cote d'Ivoire",63027852805.4204,26811790.0,1,0,"Japan","","","",0,1
+1964,"Summer","CMR","Cameroon",776650176.904453,5556209.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","CMR","Cameroon",1046191217.79942,6127193.0,0,24,"Mexico",5516,112,172,0,1
+1968,"Summer","CMR","Cameroon",1046191217.79942,6127193.0,1,24,"Mexico",5516,112,172,0,1
+1972,"Summer","CMR","Cameroon",1498251889.66287,6809468.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","CMR","Cameroon",2898090001.8562,7598028.0,0,27,"Canada",6084,92,198,0,0
+1980,"Summer","CMR","Cameroon",6674569046.6832,8519891.0,0,27,"USSR",5179,80,203,0,0
+1984,"Summer","CMR","Cameroon",7311938026.36713,9508570.0,0,29,"United States of America",6829,140,221,0,1
+1984,"Summer","CMR","Cameroon",7311938026.36713,9508570.0,1,29,"United States of America",6829,140,221,0,1
+1988,"Summer","CMR","Cameroon",12236057362.4917,10759573.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","CMR","Cameroon",12071775335.0433,12128604.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","CMR","Cameroon",11093538846.4483,13575324.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","CMR","Cameroon",10566579294.9831,15091594.0,0,40,"Australia",10651,199,300,0,18
+2000,"Summer","CMR","Cameroon",10566579294.9831,15091594.0,1,40,"Australia",10651,199,300,0,18
+2002,"Winter","CMR","Cameroon",12417251350.4882,15914033.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","CMR","Cameroon",18826214135.6419,16809407.0,0,40,"Greece",10625,201,301,0,1
+2004,"Summer","CMR","Cameroon",18826214135.6419,16809407.0,1,40,"Greece",10625,201,301,0,1
+2008,"Summer","CMR","Cameroon",27715142032.913,18777081.0,0,41,"People's Republic of China",10942,204,302,0,1
+2008,"Summer","CMR","Cameroon",27715142032.913,18777081.0,1,41,"People's Republic of China",10942,204,302,0,1
+2012,"Summer","CMR","Cameroon",30155062329.2821,21032684.0,0,36,"Great Britain",10568,204,302,0,1
+2012,"Summer","CMR","Cameroon",30155062329.2821,21032684.0,1,36,"Great Britain",10568,204,302,0,1
+2016,"Summer","CMR","Cameroon",33814337044.3765,23711630.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","CMR","Cameroon",40773241177.0505,26491087.0,0,0,"Japan","","","",0,0
+1968,"Summer","COD","Congo, Dem. Rep.",3909780538.92216,19022799.0,0,24,"Mexico",5516,112,172,0,0
+1984,"Summer","COD","Congo, Dem. Rep.",7857729193.20343,29879852.0,0,29,"United States of America",6829,140,221,0,0
+1988,"Summer","COD","Congo, Dem. Rep.",8861299976.74158,33750052.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","COD","Congo, Dem. Rep.",8227343907.26679,38332302.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","COD","Congo, Dem. Rep.",5771456952.1908,44118709.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","COD","Congo, Dem. Rep.",19088046305.7971,48616317.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","COD","Congo, Dem. Rep.",10297483481.223,54815607.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","COD","Congo, Dem. Rep.",22723488723.3641,62249724.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","COD","Congo, Dem. Rep.",30029369928.7318,70997870.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","COD","Congo, Dem. Rep.",38600224214.4728,81430977.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","COD","Congo, Dem. Rep.",46691989748.9186,92853164.0,0,0,"Japan","","","",0,0
+1960,"Summer","COL","Colombia",4031152976.63904,15687688.0,0,23,"Italy",5338,83,150,0,0
+1964,"Summer","COL","Colombia",5973366666.66667,17739754.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","COL","Colombia",5960212869.12968,19872503.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","COL","Colombia",8671358732.68486,21898055.0,0,28,"Germany",7134,121,195,0,3
+1972,"Summer","COL","Colombia",8671358732.68486,21898055.0,1,28,"Germany",7134,121,195,0,3
+1976,"Summer","COL","Colombia",15341403660.4698,23913002.0,0,27,"Canada",6084,92,198,0,0
+1980,"Summer","COL","Colombia",33400735644.0481,26176195.0,0,27,"USSR",5179,80,203,0,0
+1984,"Summer","COL","Colombia",38253120737.9671,28689032.0,0,29,"United States of America",6829,140,221,0,1
+1984,"Summer","COL","Colombia",38253120737.9671,28689032.0,1,29,"United States of America",6829,140,221,0,1
+1988,"Summer","COL","Colombia",39212550050.4223,31256727.0,0,31,"Republic of Korea",8397,159,237,0,1
+1988,"Summer","COL","Colombia",39212550050.4223,31256727.0,1,31,"Republic of Korea",8397,159,237,0,1
+1992,"Summer","COL","Colombia",58418985443.3172,33939039.0,0,34,"Spain",9356,169,257,0,1
+1992,"Summer","COL","Colombia",58418985443.3172,33939039.0,1,34,"Spain",9356,169,257,0,1
+1996,"Summer","COL","Colombia",97160109277.8087,36632573.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","COL","Colombia",99875074951.0278,39215135.0,0,40,"Australia",10651,199,300,0,1
+2000,"Summer","COL","Colombia",99875074951.0278,39215135.0,1,40,"Australia",10651,199,300,0,1
+2004,"Summer","COL","Colombia",117092416666.245,41648268.0,0,40,"Greece",10625,201,301,0,2
+2004,"Summer","COL","Colombia",117092416666.245,41648268.0,1,40,"Greece",10625,201,301,0,2
+2008,"Summer","COL","Colombia",242504150472.931,43815313.0,0,41,"People's Republic of China",10942,204,302,0,3
+2008,"Summer","COL","Colombia",242504150472.931,43815313.0,1,41,"People's Republic of China",10942,204,302,0,3
+2010,"Winter","COL","Colombia",286498534094.963,44816108.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","COL","Colombia",370691143018.039,45782417.0,0,36,"Great Britain",10568,204,302,0,9
+2012,"Summer","COL","Colombia",370691143018.039,45782417.0,1,36,"Great Britain",10568,204,302,0,9
+2016,"Summer","COL","Colombia",282720100286.228,47625955.0,0,39,"Brazil",11238,207,306,0,8
+2016,"Summer","COL","Colombia",282720100286.228,47625955.0,1,39,"Brazil",11238,207,306,0,8
+2018,"Winter","COL","Colombia",334198218098.276,49276961.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","COL","Colombia",270348342541.465,50930662.0,0,0,"Japan","","","",0,5
+2020,"Summer","COL","Colombia",270348342541.465,50930662.0,1,0,"Japan","","","",0,5
+2022,"Winter","COL","Colombia",345632492851.448,51874024.0,0,0,"People's Republic of China","","","",0,0
+1996,"Summer","COM","Comoros",392488148.725187,494288.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","COM","Comoros",339504306.290689,536758.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","COM","Comoros",622679660.37137,581154.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","COM","Comoros",915659107.965823,629470.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","COM","Comoros",1015842906.66403,684553.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","COM","Comoros",1012835493.19325,746232.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","COM","Comoros",1225039196.61091,806166.0,0,0,"Japan","","","",0,0
+1996,"Summer","CPV","Cabo Verde",501979269.843942,421007.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","CPV","Cabo Verde",539227277.626411,458251.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","CPV","Cabo Verde",924940011.836897,486583.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","CPV","Cabo Verde",1959620648.31578,510336.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","CPV","Cabo Verde",1913081210.41411,533864.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","CPV","Cabo Verde",1849789985.99572,558394.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","CPV","Cabo Verde",1821565613.68613,582640.0,0,0,"Japan","","","",0,0
+1992,"Summer","CRO","Croatia",10621169290.9986,4575818.0,0,34,"Spain",9356,169,257,0,15
+1992,"Summer","CRO","Croatia",10621169290.9986,4575818.0,1,34,"Spain",9356,169,257,0,15
+1992,"Winter","CRO","Croatia",10621169290.9986,4575818.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","CRO","Croatia",15062911616.8222,4652024.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","CRO","Croatia",24151469716.5173,4557097.0,0,37,"United States of America",10318,197,271,0,28
+1996,"Summer","CRO","Croatia",24151469716.5173,4557097.0,1,37,"United States of America",10318,197,271,0,28
+1998,"Winter","CRO","Croatia",25889813449.4579,4532135.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","CRO","Croatia",22134069750.2586,4468302.0,0,40,"Australia",10651,199,300,0,10
+2000,"Summer","CRO","Croatia",22134069750.2586,4468302.0,1,40,"Australia",10651,199,300,0,10
+2002,"Winter","CRO","Croatia",26757633353.1909,4302174.0,1,15,"United States of America",2399,77,78,0,4
+2002,"Winter","CRO","Croatia",26757633353.1909,4302174.0,0,15,"United States of America",2399,77,78,0,4
+2004,"Summer","CRO","Croatia",41836096243.0481,4304600.0,0,40,"Greece",10625,201,301,0,21
+2004,"Summer","CRO","Croatia",41836096243.0481,4304600.0,1,40,"Greece",10625,201,301,0,21
+2006,"Winter","CRO","Croatia",49583643047.994,4311159.0,0,15,"Italy",2508,80,84,0,3
+2006,"Winter","CRO","Croatia",49583643047.994,4311159.0,1,15,"Italy",2508,80,84,0,3
+2008,"Summer","CRO","Croatia",68473103476.6775,4309705.0,0,41,"People's Republic of China",10942,204,302,0,5
+2008,"Summer","CRO","Croatia",68473103476.6775,4309705.0,1,41,"People's Republic of China",10942,204,302,0,5
+2010,"Winter","CRO","Croatia",58975127200.9948,4295427.0,0,15,"Canada",2566,82,86,0,3
+2010,"Winter","CRO","Croatia",58975127200.9948,4295427.0,1,15,"Canada",2566,82,86,0,3
+2012,"Summer","CRO","Croatia",57547495859.7306,4267558.0,0,36,"Great Britain",10568,204,302,0,35
+2012,"Summer","CRO","Croatia",57547495859.7306,4267558.0,1,36,"Great Britain",10568,204,302,0,35
+2014,"Winter","CRO","Croatia",59607109597.2123,4238389.0,0,15,"Russian Federation",2780,88,98,0,1
+2014,"Winter","CRO","Croatia",59607109597.2123,4238389.0,1,15,"Russian Federation",2780,88,98,0,1
+2016,"Summer","CRO","Croatia",52650804052.1394,4174349.0,1,39,"Brazil",11238,207,306,0,24
+2016,"Summer","CRO","Croatia",52650804052.1394,4174349.0,0,39,"Brazil",11238,207,306,0,24
+2018,"Winter","CRO","Croatia",61668280700.0968,4087843.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","CRO","Croatia",57959824238.1808,4047680.0,0,0,"Japan","","","",0,9
+2020,"Summer","CRO","Croatia",57959824238.1808,4047680.0,1,0,"Japan","","","",0,9
+2022,"Winter","CRO","Croatia",71196460236.6301,3855641.0,0,0,"People's Republic of China","","","",0,0
+1960,"Summer","CUB","Cuba","",7267395.0,0,23,"Italy",5338,83,150,0,0
+1964,"Summer","CUB","Cuba","",7902286.0,0,25,"Japan",5151,93,163,0,1
+1964,"Summer","CUB","Cuba","",7902286.0,1,25,"Japan",5151,93,163,0,1
+1968,"Summer","CUB","Cuba","",8550286.0,1,24,"Mexico",5516,112,172,0,10
+1968,"Summer","CUB","Cuba","",8550286.0,0,24,"Mexico",5516,112,172,0,10
+1972,"Summer","CUB","Cuba",8135150891.92025,9169289.0,0,28,"Germany",7134,121,195,0,22
+1972,"Summer","CUB","Cuba",8135150891.92025,9169289.0,1,28,"Germany",7134,121,195,0,22
+1976,"Summer","CUB","Cuba",13789579902.5579,9600862.0,0,27,"Canada",6084,92,198,0,24
+1976,"Summer","CUB","Cuba",13789579902.5579,9600862.0,1,27,"Canada",6084,92,198,0,24
+1980,"Summer","CUB","Cuba",19912889861.1111,9809107.0,0,27,"USSR",5179,80,203,0,20
+1980,"Summer","CUB","Cuba",19912889861.1111,9809107.0,1,27,"USSR",5179,80,203,0,20
+1992,"Summer","CUB","Cuba",22085858243.2432,10783748.0,1,34,"Spain",9356,169,257,0,69
+1992,"Summer","CUB","Cuba",22085858243.2432,10783748.0,0,34,"Spain",9356,169,257,0,69
+1996,"Summer","CUB","Cuba",25017368700.0,10963031.0,0,37,"United States of America",10318,197,271,0,55
+1996,"Summer","CUB","Cuba",25017368700.0,10963031.0,1,37,"United States of America",10318,197,271,0,55
+2000,"Summer","CUB","Cuba",30565400000.0,11105791.0,1,40,"Australia",10651,199,300,0,65
+2000,"Summer","CUB","Cuba",30565400000.0,11105791.0,0,40,"Australia",10651,199,300,0,65
+2004,"Summer","CUB","Cuba",38203000000.0,11225294.0,0,40,"Greece",10625,201,301,0,62
+2004,"Summer","CUB","Cuba",38203000000.0,11225294.0,1,40,"Greece",10625,201,301,0,62
+2008,"Summer","CUB","Cuba",56302129629.6296,11276609.0,1,41,"People's Republic of China",10942,204,302,0,53
+2008,"Summer","CUB","Cuba",56302129629.6296,11276609.0,0,41,"People's Republic of China",10942,204,302,0,53
+2012,"Summer","CUB","Cuba",73141000000.0,11309290.0,0,36,"Great Britain",10568,204,302,0,15
+2012,"Summer","CUB","Cuba",73141000000.0,11309290.0,1,36,"Great Britain",10568,204,302,0,15
+2016,"Summer","CUB","Cuba",91370407900.0,11342012.0,0,39,"Brazil",11238,207,306,0,11
+2016,"Summer","CUB","Cuba",91370407900.0,11342012.0,1,39,"Brazil",11238,207,306,0,11
+2020,"Summer","CUB","Cuba",107352000000.0,11300698.0,0,0,"Japan","","","",0,16
+2020,"Summer","CUB","Cuba",107352000000.0,11300698.0,1,0,"Japan","","","",0,16
+1980,"Summer","CYP","Cyprus",2154311276.94859,679327.0,0,27,"USSR",5179,80,203,0,0
+1980,"Winter","CYP","Cyprus",2154311276.94859,679327.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","CYP","Cyprus",2278248953.14058,719678.0,0,29,"United States of America",6829,140,221,0,0
+1984,"Winter","CYP","Cyprus",2278248953.14058,719678.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","CYP","Cyprus",4278792597.23965,766412.0,0,31,"Republic of Korea",8397,159,237,0,0
+1988,"Winter","CYP","Cyprus",4278792597.23965,766412.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","CYP","Cyprus",6912150456.32334,810431.0,0,34,"Spain",9356,169,257,0,0
+1992,"Winter","CYP","Cyprus",6912150456.32334,810431.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","CYP","Cyprus",7425703928.57143,844444.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","CYP","Cyprus",10011914680.0502,880058.0,0,37,"United States of America",10318,197,271,0,0
+1998,"Winter","CYP","Cyprus",10248618778.2805,914660.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","CYP","Cyprus",9985847313.85485,948237.0,0,40,"Australia",10651,199,300,0,0
+2002,"Winter","CYP","Cyprus",11420228846.1538,982194.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","CYP","Cyprus",17320551250.0,1018684.0,0,40,"Greece",10625,201,301,0,0
+2006,"Winter","CYP","Cyprus",20072754986.8272,1055438.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","CYP","Cyprus",27958384913.4219,1092390.0,0,41,"People's Republic of China",10942,204,302,0,0
+2010,"Winter","CYP","Cyprus",25799940416.0167,1129686.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","CYP","Cyprus",25047433099.5891,1156556.0,0,36,"Great Britain",10568,204,302,0,1
+2012,"Summer","CYP","Cyprus",25047433099.5891,1156556.0,1,36,"Great Britain",10568,204,302,0,1
+2014,"Winter","CYP","Cyprus",23225912183.4991,1176995.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","CYP","Cyprus",21046452117.3759,1197881.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","CYP","Cyprus",25754011492.2204,1218831.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","CYP","Cyprus",25555082266.6429,1237537.0,0,0,"Japan","","","",0,0
+2022,"Winter","CYP","Cyprus",31218047043.8386,1251488.0,0,0,"People's Republic of China","","","",0,0
+1994,"Winter","CZE","Czechia",48188478339.4129,10333587.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","CZE","Czechia",67804105329.8557,10315241.0,0,37,"United States of America",10318,197,271,0,13
+1996,"Summer","CZE","Czechia",67804105329.8557,10315241.0,1,37,"United States of America",10318,197,271,0,13
+1998,"Winter","CZE","Czechia",67187217327.7326,10294373.0,0,14,"Japan",2176,72,68,0,23
+1998,"Winter","CZE","Czechia",67187217327.7326,10294373.0,1,14,"Japan",2176,72,68,0,23
+2000,"Summer","CZE","Czechia",62175642238.0847,10255063.0,0,40,"Australia",10651,199,300,0,9
+2000,"Summer","CZE","Czechia",62175642238.0847,10255063.0,1,40,"Australia",10651,199,300,0,9
+2002,"Winter","CZE","Czechia",82607869609.574,10196916.0,0,15,"United States of America",2399,77,78,0,3
+2002,"Winter","CZE","Czechia",82607869609.574,10196916.0,1,15,"United States of America",2399,77,78,0,3
+2004,"Summer","CZE","Czechia",120147899983.657,10197101.0,0,40,"Greece",10625,201,301,0,13
+2004,"Summer","CZE","Czechia",120147899983.657,10197101.0,1,40,"Greece",10625,201,301,0,13
+2006,"Winter","CZE","Czechia",156236258386.589,10238905.0,1,15,"Italy",2508,80,84,0,27
+2006,"Winter","CZE","Czechia",156236258386.589,10238905.0,0,15,"Italy",2508,80,84,0,27
+2008,"Summer","CZE","Czechia",236506264753.95,10384603.0,0,41,"People's Republic of China",10942,204,302,0,8
+2008,"Summer","CZE","Czechia",236506264753.95,10384603.0,1,41,"People's Republic of China",10942,204,302,0,8
+2010,"Winter","CZE","Czechia",211168667286.27,10474410.0,0,15,"Canada",2566,82,86,0,9
+2010,"Winter","CZE","Czechia",211168667286.27,10474410.0,1,15,"Canada",2566,82,86,0,9
+2012,"Summer","CZE","Czechia",210363223087.728,10510785.0,0,36,"Great Britain",10568,204,302,0,15
+2012,"Summer","CZE","Czechia",210363223087.728,10510785.0,1,36,"Great Britain",10568,204,302,0,15
+2014,"Winter","CZE","Czechia",210911285077.683,10525347.0,0,15,"Russian Federation",2780,88,98,0,15
+2014,"Winter","CZE","Czechia",210911285077.683,10525347.0,1,15,"Russian Federation",2780,88,98,0,15
+2016,"Summer","CZE","Czechia",198160659303.939,10566332.0,0,39,"Brazil",11238,207,306,0,15
+2016,"Summer","CZE","Czechia",198160659303.939,10566332.0,1,39,"Brazil",11238,207,306,0,15
+2018,"Winter","CZE","Czechia",251992360762.236,10629928.0,0,15,"Republic of Korea",2833,92,102,0,7
+2018,"Winter","CZE","Czechia",251992360762.236,10629928.0,1,15,"Republic of Korea",2833,92,102,0,7
+2020,"Summer","CZE","Czechia",251109660602.536,10697858.0,1,0,"Japan","","","",0,12
+2020,"Summer","CZE","Czechia",251109660602.536,10697858.0,0,0,"Japan","","","",0,12
+2022,"Winter","CZE","Czechia",301831228325.556,10672118.0,0,0,"People's Republic of China","","","",0,2
+2022,"Winter","CZE","Czechia",301831228325.556,10672118.0,1,0,"People's Republic of China","","","",0,2
+1960,"Summer","DEN","Denmark",6361166544.50349,4579603.0,1,23,"Italy",5338,83,150,0,23
+1960,"Summer","DEN","Denmark",6361166544.50349,4579603.0,0,23,"Italy",5338,83,150,0,23
+1960,"Winter","DEN","Denmark",6361166544.50349,4579603.0,0,8,"United States of America",665,30,27,0,0
+1964,"Summer","DEN","Denmark",9677401337.17309,4722072.0,0,25,"Japan",5151,93,163,0,12
+1964,"Summer","DEN","Denmark",9677401337.17309,4722072.0,1,25,"Japan",5151,93,163,0,12
+1964,"Winter","DEN","Denmark",9677401337.17309,4722072.0,0,10,"Austria",1091,36,34,0,0
+1968,"Summer","DEN","Denmark",13505574133.3333,4864883.0,0,24,"Mexico",5516,112,172,0,17
+1968,"Summer","DEN","Denmark",13505574133.3333,4864883.0,1,24,"Mexico",5516,112,172,0,17
+1968,"Winter","DEN","Denmark",13505574133.3333,4864883.0,0,10,"France",1158,37,35,0,0
+1972,"Summer","DEN","Denmark",23230667549.2496,4991596.0,0,28,"Germany",7134,121,195,0,1
+1972,"Summer","DEN","Denmark",23230667549.2496,4991596.0,1,28,"Germany",7134,121,195,0,1
+1976,"Summer","DEN","Denmark",44503607444.1687,5072596.0,0,27,"Canada",6084,92,198,0,8
+1976,"Summer","DEN","Denmark",44503607444.1687,5072596.0,1,27,"Canada",6084,92,198,0,8
+1980,"Summer","DEN","Denmark",70811287815.6106,5123027.0,1,27,"USSR",5179,80,203,0,8
+1980,"Summer","DEN","Denmark",70811287815.6106,5123027.0,0,27,"USSR",5179,80,203,0,8
+1984,"Summer","DEN","Denmark",58868891334.9941,5111619.0,0,29,"United States of America",6829,140,221,0,13
+1984,"Summer","DEN","Denmark",58868891334.9941,5111619.0,1,29,"United States of America",6829,140,221,0,13
+1988,"Summer","DEN","Denmark",115540189705.118,5129516.0,0,31,"Republic of Korea",8397,159,237,0,7
+1988,"Summer","DEN","Denmark",115540189705.118,5129516.0,1,31,"Republic of Korea",8397,159,237,0,7
+1988,"Winter","DEN","Denmark",115540189705.118,5129516.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","DEN","Denmark",152966494259.538,5171370.0,0,34,"Spain",9356,169,257,0,14
+1992,"Summer","DEN","Denmark",152966494259.538,5171370.0,1,34,"Spain",9356,169,257,0,14
+1992,"Winter","DEN","Denmark",152966494259.538,5171370.0,0,12,"France",1801,64,57,0,0
+1994,"Winter","DEN","Denmark",156017919221.457,5206180.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","DEN","Denmark",187481157845.724,5263074.0,0,37,"United States of America",10318,197,271,0,23
+1996,"Summer","DEN","Denmark",187481157845.724,5263074.0,1,37,"United States of America",10318,197,271,0,23
+1998,"Winter","DEN","Denmark",176877077513.133,5304219.0,0,14,"Japan",2176,72,68,0,5
+1998,"Winter","DEN","Denmark",176877077513.133,5304219.0,1,14,"Japan",2176,72,68,0,5
+2000,"Summer","DEN","Denmark",164043817223.59,5339616.0,0,40,"Australia",10651,199,300,0,25
+2000,"Summer","DEN","Denmark",164043817223.59,5339616.0,1,40,"Australia",10651,199,300,0,25
+2002,"Winter","DEN","Denmark",178788209558.311,5375931.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","DEN","Denmark",251986155630.852,5404523.0,1,40,"Greece",10625,201,301,0,29
+2004,"Summer","DEN","Denmark",251986155630.852,5404523.0,0,40,"Greece",10625,201,301,0,29
+2006,"Winter","DEN","Denmark",283386151543.687,5437272.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","DEN","Denmark",354979471960.142,5493621.0,0,41,"People's Republic of China",10942,204,302,0,19
+2008,"Summer","DEN","Denmark",354979471960.142,5493621.0,1,41,"People's Republic of China",10942,204,302,0,19
+2010,"Winter","DEN","Denmark",322345594075.47,5547683.0,0,15,"Canada",2566,82,86,0,0
+2012,"Summer","DEN","Denmark",326792574244.963,5591572.0,0,36,"Great Britain",10568,204,302,0,16
+2012,"Summer","DEN","Denmark",326792574244.963,5591572.0,1,36,"Great Britain",10568,204,302,0,16
+2014,"Winter","DEN","Denmark",352832602064.452,5643475.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","DEN","Denmark",312181849372.233,5728010.0,0,39,"Brazil",11238,207,306,0,41
+2016,"Summer","DEN","Denmark",312181849372.233,5728010.0,1,39,"Brazil",11238,207,306,0,41
+2018,"Winter","DEN","Denmark",355293374912.393,5793636.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","DEN","Denmark",355631021931.621,5831404.0,0,0,"Japan","","","",0,31
+2020,"Summer","DEN","Denmark",355631021931.621,5831404.0,1,0,"Japan","","","",0,31
+2022,"Winter","DEN","Denmark",400114306337.077,5903037.0,0,0,"People's Republic of China","","","",0,0
+1984,"Summer","DJI","Djibouti","",382156.0,0,29,"United States of America",6829,140,221,0,0
+1988,"Summer","DJI","Djibouti",395794538.630775,482337.0,1,31,"Republic of Korea",8397,159,237,0,1
+1988,"Summer","DJI","Djibouti",395794538.630775,482337.0,0,31,"Republic of Korea",8397,159,237,0,1
+1992,"Summer","DJI","Djibouti",478058304.871118,623197.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","DJI","Djibouti",494004647.73437,644649.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","DJI","Djibouti",551230861.856505,742033.0,0,40,"Australia",10651,199,300,0,0
+2008,"Summer","DJI","Djibouti",999105339.267729,882886.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","DJI","Djibouti",1353632941.5207,954297.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","DJI","Djibouti",2604955228.70117,1023261.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","DJI","Djibouti",3144136196.6228,1090156.0,0,0,"Japan","","","",0,0
+1996,"Summer","DMA","Dominica",292285185.185185,69166.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","DMA","Dominica",333470370.37037,68346.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","DMA","Dominica",396711111.111111,68574.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","DMA","Dominica",480003703.703704,68782.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","DMA","Dominica",520355555.555556,68888.0,0,36,"Great Britain",10568,204,302,0,0
+2014,"Winter","DMA","Dominica",572255555.555555,69371.0,0,15,"Russian Federation",2780,88,98,0,0
+2016,"Summer","DMA","Dominica",612711111.111111,70075.0,0,39,"Brazil",11238,207,306,0,0
+2020,"Summer","DMA","Dominica",528944444.444444,71995.0,0,0,"Japan","","","",0,0
+1964,"Summer","DOM","Dominican Republic",1025599900.0,3752313.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","DOM","Dominican Republic",1079100000.0,4230877.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","DOM","Dominican Republic",1987400000.0,4724801.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","DOM","Dominican Republic",3951500000.0,5235318.0,0,27,"Canada",6084,92,198,0,0
+1980,"Summer","DOM","Dominican Republic",6761300000.0,5755800.0,0,27,"USSR",5179,80,203,0,0
+1984,"Summer","DOM","Dominican Republic",11594000000.0,6282104.0,0,29,"United States of America",6829,140,221,0,1
+1984,"Summer","DOM","Dominican Republic",11594000000.0,6282104.0,1,29,"United States of America",6829,140,221,0,1
+1988,"Summer","DOM","Dominican Republic",5374299981.49698,6834207.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","DOM","Dominican Republic",11605382504.0,7427340.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","DOM","Dominican Republic",18241622547.5908,8012314.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","DOM","Dominican Republic",24305780628.6677,8540791.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","DOM","Dominican Republic",22322387382.494,9043127.0,0,40,"Greece",10625,201,301,0,1
+2004,"Summer","DOM","Dominican Republic",22322387382.494,9043127.0,1,40,"Greece",10625,201,301,0,1
+2008,"Summer","DOM","Dominican Republic",48091433554.186,9522948.0,0,41,"People's Republic of China",10942,204,302,0,2
+2008,"Summer","DOM","Dominican Republic",48091433554.186,9522948.0,1,41,"People's Republic of China",10942,204,302,0,2
+2012,"Summer","DOM","Dominican Republic",60561635555.6383,10030882.0,1,36,"Great Britain",10568,204,302,0,2
+2012,"Summer","DOM","Dominican Republic",60561635555.6383,10030882.0,0,36,"Great Britain",10568,204,302,0,2
+2016,"Summer","DOM","Dominican Republic",75552902635.7075,10527592.0,0,39,"Brazil",11238,207,306,0,1
+2016,"Summer","DOM","Dominican Republic",75552902635.7075,10527592.0,1,39,"Brazil",11238,207,306,0,1
+2020,"Summer","DOM","Dominican Republic",78546672406.8291,10999664.0,0,0,"Japan","","","",0,32
+2020,"Summer","DOM","Dominican Republic",78546672406.8291,10999664.0,1,0,"Japan","","","",0,32
+1968,"Summer","ECU","Ecuador",2582179864.15493,5825663.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","ECU","Ecuador",3185986087.33583,6533630.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","ECU","Ecuador",9091921030.17345,7304349.0,0,27,"Canada",6084,92,198,0,0
+1980,"Summer","ECU","Ecuador",17881508242.4481,8135845.0,0,27,"USSR",5179,80,203,0,0
+1984,"Summer","ECU","Ecuador",16912509091.855,9022979.0,0,29,"United States of America",6829,140,221,0,0
+1988,"Summer","ECU","Ecuador",13051881851.4068,9969788.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","ECU","Ecuador",18094238119.0595,10914222.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","ECU","Ecuador",25226393196.5983,11775221.0,0,37,"United States of America",10318,197,271,0,1
+1996,"Summer","ECU","Ecuador",25226393196.5983,11775221.0,1,37,"United States of America",10318,197,271,0,1
+2000,"Summer","ECU","Ecuador",17539454727.3637,12626507.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","ECU","Ecuador",35194947000.0,13534593.0,0,40,"Greece",10625,201,301,0,0
+2008,"Summer","ECU","Ecuador",61139438000.0,14496797.0,0,41,"People's Republic of China",10942,204,302,0,1
+2008,"Summer","ECU","Ecuador",61139438000.0,14496797.0,1,41,"People's Republic of China",10942,204,302,0,1
+2012,"Summer","ECU","Ecuador",87735048000.0,15483883.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","ECU","Ecuador",97671433000.0,16439585.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","ECU","Ecuador",107478961000.0,17015672.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","ECU","Ecuador",95865473000.0,17588595.0,0,0,"Japan","","","",0,3
+2020,"Summer","ECU","Ecuador",95865473000.0,17588595.0,1,0,"Japan","","","",0,3
+2022,"Winter","ECU","Ecuador",116133121000.0,18001000.0,0,0,"People's Republic of China","","","",0,0
+1964,"Summer","EGY","Egypt, Arab Rep.",4709245761.67881,30026648.0,0,25,"Japan",5151,93,163,0,0
+1968,"Summer","EGY","Egypt, Arab Rep.",5932242990.65421,33204629.0,0,24,"Mexico",5516,112,172,0,0
+1972,"Summer","EGY","Egypt, Arab Rep.",9299638055.84281,36330768.0,0,28,"Germany",7134,121,195,0,0
+1976,"Summer","EGY","Egypt, Arab Rep.",13315988083.4161,39649050.0,0,27,"Canada",6084,92,198,0,0
+1984,"Summer","EGY","Egypt, Arab Rep.",33971188991.6147,48676443.0,0,29,"United States of America",6829,140,221,0,1
+1984,"Summer","EGY","Egypt, Arab Rep.",33971188991.6147,48676443.0,1,29,"United States of America",6829,140,221,0,1
+1984,"Winter","EGY","Egypt, Arab Rep.",33971188991.6147,48676443.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","EGY","Egypt, Arab Rep.",34980124929.0176,54298446.0,0,31,"Republic of Korea",8397,159,237,0,0
+1992,"Summer","EGY","Egypt, Arab Rep.",41855986519.4235,59989142.0,0,34,"Spain",9356,169,257,0,0
+1996,"Summer","EGY","Egypt, Arab Rep.",67629716981.1321,65565195.0,0,37,"United States of America",10318,197,271,0,0
+2000,"Summer","EGY","Egypt, Arab Rep.",99838543960.0763,71371371.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","EGY","Egypt, Arab Rep.",78782467532.4675,77522427.0,0,40,"Greece",10625,201,301,0,5
+2004,"Summer","EGY","Egypt, Arab Rep.",78782467532.4675,77522427.0,1,40,"Greece",10625,201,301,0,5
+2008,"Summer","EGY","Egypt, Arab Rep.",162818181818.182,83844783.0,0,41,"People's Republic of China",10942,204,302,0,2
+2008,"Summer","EGY","Egypt, Arab Rep.",162818181818.182,83844783.0,1,41,"People's Republic of China",10942,204,302,0,2
+2012,"Summer","EGY","Egypt, Arab Rep.",279116666666.667,91240376.0,0,36,"Great Britain",10568,204,302,0,4
+2012,"Summer","EGY","Egypt, Arab Rep.",279116666666.667,91240376.0,1,36,"Great Britain",10568,204,302,0,4
+2016,"Summer","EGY","Egypt, Arab Rep.",332441717791.411,99784030.0,0,39,"Brazil",11238,207,306,0,3
+2016,"Summer","EGY","Egypt, Arab Rep.",332441717791.411,99784030.0,1,39,"Brazil",11238,207,306,0,3
+2020,"Summer","EGY","Egypt, Arab Rep.",383817841547.099,107465134.0,0,0,"Japan","","","",0,4
+2020,"Summer","EGY","Egypt, Arab Rep.",383817841547.099,107465134.0,1,0,"Japan","","","",0,4
+2000,"Summer","ERI","Eritrea",706370815.584416,2392880.0,0,40,"Australia",10651,199,300,0,0
+2004,"Summer","ERI","Eritrea",1109054005.43971,2763140.0,0,40,"Greece",10625,201,301,0,1
+2004,"Summer","ERI","Eritrea",1109054005.43971,2763140.0,1,40,"Greece",10625,201,301,0,1
+2008,"Summer","ERI","Eritrea",1380188800.0,3005779.0,0,41,"People's Republic of China",10942,204,302,0,0
+2012,"Summer","ERI","Eritrea","",3252596.0,0,36,"Great Britain",10568,204,302,0,0
+2016,"Summer","ERI","Eritrea","",3365287.0,0,39,"Brazil",11238,207,306,0,0
+2018,"Winter","ERI","Eritrea","",3445374.0,0,15,"Republic of Korea",2833,92,102,0,0
+2020,"Summer","ERI","Eritrea","",3555868.0,0,0,"Japan","","","",0,0
+2022,"Winter","ERI","Eritrea","",3684032.0,0,0,"People's Republic of China","","","",0,0
+1960,"Summer","ESP","Spain",12424514013.7604,30455000.0,0,23,"Italy",5338,83,150,0,14
+1960,"Summer","ESP","Spain",12424514013.7604,30455000.0,1,23,"Italy",5338,83,150,0,14
+1960,"Winter","ESP","Spain",12424514013.7604,30455000.0,0,8,"United States of America",665,30,27,0,0
+1964,"Summer","ESP","Spain",21966876027.2517,31609195.0,0,25,"Japan",5151,93,163,0,0
+1964,"Winter","ESP","Spain",21966876027.2517,31609195.0,0,10,"Austria",1091,36,34,0,0
+1968,"Summer","ESP","Spain",32394326463.759,33113134.0,0,24,"Mexico",5516,112,172,0,0
+1968,"Winter","ESP","Spain",32394326463.759,33113134.0,0,10,"France",1158,37,35,0,0
+1972,"Summer","ESP","Spain",59090176028.993,34604469.0,0,28,"Germany",7134,121,195,0,1
+1972,"Summer","ESP","Spain",59090176028.993,34604469.0,1,28,"Germany",7134,121,195,0,1
+1972,"Winter","ESP","Spain",59090176028.993,34604469.0,0,10,"Japan",1006,35,35,0,1
+1972,"Winter","ESP","Spain",59090176028.993,34604469.0,1,10,"Japan",1006,35,35,0,1
+1976,"Summer","ESP","Spain",118422534195.474,36137812.0,1,27,"Canada",6084,92,198,0,6
+1976,"Summer","ESP","Spain",118422534195.474,36137812.0,0,27,"Canada",6084,92,198,0,6
+1976,"Winter","ESP","Spain",118422534195.474,36137812.0,0,10,"Austria",1123,37,37,0,0
+1980,"Summer","ESP","Spain",232600556973.776,37491165.0,0,27,"USSR",5179,80,203,0,24
+1980,"Summer","ESP","Spain",232600556973.776,37491165.0,1,27,"USSR",5179,80,203,0,24
+1980,"Winter","ESP","Spain",232600556973.776,37491165.0,0,10,"United States of America",1072,37,38,0,0
+1984,"Summer","ESP","Spain",171979977230.387,38330364.0,0,29,"United States of America",6829,140,221,0,19
+1984,"Summer","ESP","Spain",171979977230.387,38330364.0,1,29,"United States of America",6829,140,221,0,19
+1984,"Winter","ESP","Spain",171979977230.387,38330364.0,0,10,"Yugoslavia",1272,49,39,0,0
+1988,"Summer","ESP","Spain",375891716897.586,38766939.0,0,31,"Republic of Korea",8397,159,237,0,5
+1988,"Summer","ESP","Spain",375891716897.586,38766939.0,1,31,"Republic of Korea",8397,159,237,0,5
+1988,"Winter","ESP","Spain",375891716897.586,38766939.0,0,10,"Canada",1423,57,46,0,0
+1992,"Summer","ESP","Spain",630465353486.104,39157685.0,0,34,"Spain",9356,169,257,1,69
+1992,"Summer","ESP","Spain",630465353486.104,39157685.0,1,34,"Spain",9356,169,257,1,69
+1992,"Winter","ESP","Spain",630465353486.104,39157685.0,0,12,"France",1801,64,57,0,1
+1992,"Winter","ESP","Spain",630465353486.104,39157685.0,1,12,"France",1801,64,57,0,1
+1994,"Winter","ESP","Spain",530183651720.283,39549108.0,0,12,"Norway",1737,67,61,0,0
+1996,"Summer","ESP","Spain",642251412058.321,39889852.0,0,37,"United States of America",10318,197,271,0,66
+1996,"Summer","ESP","Spain",642251412058.321,39889852.0,1,37,"United States of America",10318,197,271,0,66
+1998,"Winter","ESP","Spain",618731484575.12,40223509.0,0,14,"Japan",2176,72,68,0,0
+2000,"Summer","ESP","Spain",598102854756.08,40567864.0,0,40,"Australia",10651,199,300,0,42
+2000,"Summer","ESP","Spain",598102854756.08,40567864.0,1,40,"Australia",10651,199,300,0,42
+2002,"Winter","ESP","Spain",708938227243.923,41431558.0,0,15,"United States of America",2399,77,78,0,0
+2004,"Summer","ESP","Spain",1069829382514.67,42921895.0,0,40,"Greece",10625,201,301,0,30
+2004,"Summer","ESP","Spain",1069829382514.67,42921895.0,1,40,"Greece",10625,201,301,0,30
+2006,"Winter","ESP","Spain",1261846683275.29,44397319.0,0,15,"Italy",2508,80,84,0,0
+2008,"Summer","ESP","Spain",1636115447612.5,45954106.0,0,41,"People's Republic of China",10942,204,302,0,71
